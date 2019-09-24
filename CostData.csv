@@ -1,0 +1,3467 @@
+﻿Period,Application_ID,Cost,Source
+2019-01-01,SISLAB,0,Azure
+2019-06-01,TMA,4,Azure
+2019-02-01,SISLAB,0,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-06-01,GEORE1,64,Azure
+2019-05-01,PYTHIA,20,Azure
+2019-03-01,GEORE1,0,Azure
+2019-09-01,SISLAB,3,Azure
+2019-04-01,PYTHIA,3906,Utilization
+2019-01-01,OCR,3804,Utilization
+2017-05-01,DSW,1466,Utilization
+2019-02-01,INSIGHTSRE,1466,Utilization
+2018-08-01,TMA,5277,Utilization
+2019-02-01,PYTHIA,489,Utilization
+2019-07-01,PYTHIA,1349,Group Technology Management
+2019-02-01,DNA,213,Group Technology Management
+2019-05-01,DOCSEARCH,170,Group Technology Management
+2019-01-01,DSW,170,Group Technology Management
+2019-09-01,SAMS,26,Group Technology Management
+2019-06-01,DOCSEARCH,1633,Group Technology Management
+2019-09-01,SAMS,22,Swisscom
+2019-08-01,DSC,2051,Swisscom
+2019-05-01,DSC,4041,Swisscom
+2019-08-01,DATAROBOT,5,Swisscom
+2019-05-01,GEORE1,3,Azure
+2019-01-01,GEORE1,1,Azure
+2019-02-01,GEORE1,93,Azure
+2019-08-01,TMA,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-02-01,GEORE1,33,Azure
+2019-08-01,SISLAB,52,Azure
+2019-09-01,SISLAB,8,Azure
+2019-08-01,TMA,0,Azure
+2019-01-01,INSIGHTSRE,7871,Swisscom
+2019-01-01,INSIGHTSRE,606,Swisscom
+2019-04-01,INSIGHTSRE,7921,Swisscom
+2019-04-01,INSIGHTSRE,6920,Swisscom
+2019-03-01,INSIGHTSRE,3,Swisscom
+2019-01-01,INSIGHTSRE,22,Swisscom
+2019-02-01,DSW,1837,Swisscom
+2019-02-01,TMA,231,Swisscom
+2019-09-01,DSW,104,Swisscom
+2019-02-01,PYTHIA,710,Group Technology Management
+2019-02-01,WATSONEXP,170,Group Technology Management
+2019-04-01,PYTHIA,109,Group Technology Management
+2019-07-01,LHTI,170,Group Technology Management
+2019-07-01,GEORE1,170,Group Technology Management
+2019-02-01,DOCSEARCH,170,Group Technology Management
+2019-04-01,DOCSEARCH,170,Group Technology Management
+2019-09-01,SISLAB,170,Group Technology Management
+2018-09-01,DSW,4399,Utilization
+2017-01-01,OCR,11593,Utilization
+2019-05-01,DSW,2933,Utilization
+2018-10-01,DOCSEARCH,817,Utilization
+2019-05-01,DSW,0,Utilization
+2019-08-01,GEORE1,0,Azure
+2019-07-01,GEORE1,0,Azure
+2019-03-01,GEORE1,3,Azure
+2019-02-01,SISLAB,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-05-01,GEORE1,12,Azure
+2019-06-01,GEORE1,21,Azure
+2019-08-01,GEORE1,0,Azure
+2019-01-01,GEORE1,0,Azure
+2019-02-01,GEORE1,0,Azure
+2017-05-01,DOCSEARCH,15297,Utilization
+2018-03-01,DNA,10144,Utilization
+2018-02-01,OCR,1226,Utilization
+2017-10-01,DSW,1671,Utilization
+2019-02-01,LHTI,55,Group Technology Management
+2019-08-01,LHTI,170,Group Technology Management
+2019-01-01,OCR,170,Group Technology Management
+2019-08-01,PYTHIA,170,Group Technology Management
+2019-09-01,DSW,3499,Group Technology Management
+2019-07-01,SAMS,65,Swisscom
+2019-09-01,SAMS,6,Swisscom
+2019-04-01,DATAROBOT,1572,Swisscom
+2019-05-01,TMA,75,Swisscom
+2019-04-01,SISLAB,5283,Swisscom
+2019-05-01,TMA,20,Swisscom
+2019-01-01,GEORE1,0,Azure
+2019-04-01,SISLAB,4,Azure
+2019-03-01,GEORE1,246,Azure
+2019-02-01,SISLAB,6,Azure
+2019-05-01,GEORE1,0,Azure
+2019-03-01,TMA,8,Swisscom
+2019-02-01,INSIGHTSRE,168,Swisscom
+2019-07-01,INSIGHTSRE,63,Swisscom
+2019-01-01,SISLAB,3121,Swisscom
+2019-08-01,PYTHIA,60,Swisscom
+2019-01-01,DSW,1109,Swisscom
+2019-08-01,SISLAB,18,Swisscom
+2017-11-01,DSW,15035,Utilization
+2019-01-01,DSW,7812,Utilization
+2019-01-01,INSIGHTSRE,2444,Utilization
+2018-10-01,OCR,4347,Utilization
+2019-07-01,DSW,4223,Group Technology Management
+2019-06-01,DSW,4164,Group Technology Management
+2019-02-01,DSW,3695,Group Technology Management
+2019-02-01,VISREPBOXI,2146,Group Technology Management
+2019-03-01,DOCSEARCH,170,Group Technology Management
+2019-01-01,WATSONEXP,170,Group Technology Management
+2019-02-01,DNA,642,Group Technology Management
+2019-02-01,DOCSEARCH,3396,Group Technology Management
+2019-02-01,WATSONEXP,37,Group Technology Management
+2019-06-01,TMA,48306,Utilization
+2019-01-01,INSIGHTSRE,18482,Utilization
+2018-05-01,DSW,16706,Utilization
+2018-06-01,INSIGHTSRE,33674,Utilization
+2018-03-01,TMA,3958,Utilization
+2019-02-01,TMA,2639,Utilization
+2019-03-01,SAMS,644,Utilization
+2019-01-01,SISLAB,23,Azure
+2019-02-01,TMA,44,Azure
+2019-08-01,SISLAB,0,Azure
+2019-08-01,SISLAB,0,Azure
+2019-01-01,SISLAB,3,Azure
+2019-07-01,SISLAB,2,Azure
+2019-01-01,DOCPROXY,170,Group Technology Management
+2019-06-01,DOCPROXY,170,Group Technology Management
+2019-03-01,DNA,213,Group Technology Management
+2019-07-01,SFILE,710,Group Technology Management
+2019-03-01,DOCPROXY,2971,Group Technology Management
+2019-09-01,DSC,1657,Group Technology Management
+2019-01-01,DOCSEARCH,550,Group Technology Management
+2019-04-01,SISLAB,251,Group Digital & Information Services
+2019-09-01,INSIGHTSRE,735,Swisscom
+2019-02-01,PYTHIA,180,Swisscom
+2019-03-01,GEORE1,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-07-01,SISLAB,41,Azure
+2019-01-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-08-01,TMA,4,Azure
+2019-09-01,GEORE1,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-07-01,TMA,586,Group Technology Management
+2019-05-01,INSIGHTSRE,778,Group Technology Management
+2019-03-01,LHTI,170,Group Technology Management
+2019-08-01,INSIGHTSRE,170,Group Technology Management
+2019-08-01,GEORE1,170,Group Technology Management
+2019-02-01,TMA,170,Group Technology Management
+2019-09-01,SISLAB,27,Group Technology Management
+2019-08-01,DOCSEARCH,19322,Utilization
+2017-03-01,OCR,8694,Utilization
+2019-03-01,DSW,3834,Utilization
+2019-03-01,PYTHIA,10,Swisscom
+2019-02-01,INSIGHTSRE,1501,Swisscom
+2019-01-01,SISLAB,4920,Swisscom
+2019-09-01,TMA,26,Swisscom
+2019-03-01,SAMS,18,Swisscom
+2019-09-01,DATAROBOT,170,Group Technology Management
+2019-05-01,PYTHIA,170,Group Technology Management
+2019-08-01,DATAROBOT,1205,Group Technology Management
+2019-01-01,TMA,151,Group Technology Management
+2019-05-01,SAMS,78,Group Technology Management
+2019-02-01,SISLAB,172,Swisscom
+2019-03-01,DSW,7,Swisscom
+2019-08-01,DSW,479,Swisscom
+2018-06-01,DSW,5012,Utilization
+2017-07-01,DNA,2737,Utilization
+2017-12-01,DSW,1671,Utilization
+2019-01-01,PYTHIA,489,Utilization
+2019-06-01,GEORE1,3,Azure
+2019-06-01,GEORE1,4,Azure
+2019-04-01,SISLAB,0,Azure
+2019-03-01,SISLAB,8,Azure
+2019-03-01,TMA,0,Azure
+2019-06-01,SISLAB,28,Azure
+2019-04-01,SISLAB,0,Azure
+2019-07-01,SISLAB,402,Azure
+2019-02-01,GEORE1,0,Azure
+2019-08-01,SISLAB,1,Azure
+2019-03-01,SISLAB,17,Swisscom
+2019-04-01,DSC,1,Swisscom
+2019-08-01,INSIGHTSRE,15,Swisscom
+2019-05-01,DATAROBOT,1,Swisscom
+2019-09-01,DSC,1489,Swisscom
+2019-01-01,DSC,4137,Swisscom
+2019-01-01,DSC,3510,Swisscom
+2019-02-01,PYTHIA,11,Swisscom
+2019-04-01,TMA,21,Swisscom
+2019-01-01,INSIGHTSRE,2124,Swisscom
+2019-03-01,PYTHIA,710,Group Technology Management
+2019-06-01,OCR,170,Group Technology Management
+2019-02-01,TMA,170,Group Technology Management
+2019-03-01,SAMS,170,Group Technology Management
+2019-03-01,DATAROBOT,1681,Group Technology Management
+2019-08-01,INSIGHTSRE,21912,Utilization
+2018-06-01,PYTHIA,1955,Utilization
+2018-11-01,PYTHIA,4177,Utilization
+2019-01-01,SISLAB,0,Azure
+2019-02-01,SISLAB,6,Azure
+2019-06-01,SISLAB,0,Azure
+2019-06-01,PYTHIA,1,Azure
+2019-06-01,GEORE1,1,Azure
+2019-06-01,SISLAB,6,Azure
+2019-06-01,SISLAB,2,Azure
+2019-06-01,TMA,0,Azure
+2019-04-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-09-01,TMA,0,Azure
+2019-05-01,SISLAB,1,Azure
+2019-09-01,SISLAB,0,Azure
+2019-05-01,SISLAB,3,Azure
+2019-06-01,SISLAB,0,Azure
+2019-08-01,SISLAB,14,Azure
+2019-02-01,GEORE1,0,Azure
+2019-01-01,DSW,17625,Utilization
+2017-08-01,DNA,20615,Utilization
+2017-06-01,DSW,3910,Utilization
+2019-06-01,LHTI,170,Group Technology Management
+2019-04-01,WATSONEXP,170,Group Technology Management
+2019-01-01,OCR,170,Group Technology Management
+2019-06-01,INSIGHTSRE,170,Group Technology Management
+2019-09-01,TMA,170,Group Technology Management
+2019-08-01,DOCPROXY,187,Group Technology Management
+2019-08-01,TMA,59,Group Technology Management
+2019-04-01,TMA,917,Group Technology Management
+2019-03-01,DOCSEARCH,550,Group Technology Management
+2019-01-01,SISLAB,12182,Swisscom
+2019-07-01,DSC,67,Swisscom
+2019-09-01,TMA,3457,Swisscom
+2019-04-01,OCR,1051,Swisscom
+2019-06-01,TMA,101,Swisscom
+2019-05-01,INSIGHTSRE,4,Swisscom
+2019-05-01,TMA,0,Swisscom
+2019-08-01,DSW,10568,Swisscom
+2019-04-01,PYTHIA,1141,Swisscom
+2019-05-01,SISLAB,6,Swisscom
+2019-01-01,PYTHIA,818,Swisscom
+2019-01-01,SISLAB,0,Azure
+2019-05-01,SISLAB,2,Azure
+2019-04-01,SISLAB,140,Azure
+2019-07-01,SISLAB,1019,Azure
+2019-09-01,GEORE1,37,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-03-01,SISLAB,49,Azure
+2019-02-01,GEORE1,60,Azure
+2019-07-01,DSW,19054,Utilization
+2018-04-01,TMA,6597,Utilization
+2018-11-01,DSW,5032,Utilization
+2018-07-01,TMA,2639,Utilization
+2017-03-01,OCR,409,Utilization
+2019-02-01,PYTHIA,1349,Group Technology Management
+2019-06-01,OCR,170,Group Technology Management
+2019-06-01,SISLAB,170,Group Technology Management
+2019-05-01,DSC,4555,Group Technology Management
+2019-07-01,SAMS,78,Group Technology Management
+2019-08-01,DSW,2628,Swisscom
+2019-08-01,INSIGHTSRE,6740,Swisscom
+2019-07-01,DSC,2253,Swisscom
+2019-06-01,PYTHIA,2,Swisscom
+2019-01-01,PYTHIA,1,Swisscom
+2019-06-01,SISLAB,2143,Swisscom
+2019-03-01,SISLAB,0,Azure
+2019-04-01,GEORE1,0,Azure
+2019-05-01,SISLAB,81,Azure
+2019-01-01,SISLAB,5,Azure
+2019-02-01,SISLAB,1,Azure
+2019-07-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-09-01,SISLAB,28,Azure
+2019-04-01,SISLAB,2,Azure
+2017-11-01,DOCSEARCH,20611,Utilization
+2017-11-01,TMA,1222,Utilization
+2019-08-01,DSC,1877,Group Technology Management
+2019-02-01,WATSONEXP,170,Group Technology Management
+2019-05-01,DATAROBOT,1625,Group Technology Management
+2019-04-01,INSIGHTSRE,45,Group Technology Management
+2019-08-01,OCR,550,Group Technology Management
+2019-01-01,LHTI,55,Group Technology Management
+2019-09-01,TMA,170,Group Technology Management
+2019-04-01,DNA,170,Group Technology Management
+2019-02-01,GEORE1,170,Group Technology Management
+2019-01-01,DNA,622,Group Technology Management
+2019-03-01,SISLAB,170,Group Technology Management
+2019-07-01,SISLAB,170,Group Technology Management
+2019-04-01,SISLAB,9052,Group Technology Management
+2019-06-01,DATAROBOT,1570,Group Technology Management
+2019-04-01,SISLAB,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-06-01,SISLAB,8,Azure
+2019-01-01,GEORE1,40,Azure
+2019-08-01,SISLAB,47,Azure
+2017-11-01,DSW,8933,Utilization
+2017-09-01,TMA,2933,Utilization
+2017-03-01,TMA,3958,Utilization
+2019-01-01,INSIGHTSRE,3983,Utilization
+2019-03-01,BCHART,32,Swisscom
+2019-08-01,PYTHIA,265,Swisscom
+2019-05-01,DSW,62,Swisscom
+2019-01-01,DATAROBOT,28,Swisscom
+2019-04-01,INSIGHTSRE,17053,Utilization
+2018-10-01,DOCSEARCH,21255,Utilization
+2017-05-01,DNA,0,Utilization
+2019-03-01,INSIGHTSRE,1466,Utilization
+2018-05-01,DOCSEARCH,1022,Utilization
+2019-05-01,PYTHIA,1671,Utilization
+2019-03-01,SISLAB,170,Group Technology Management
+2019-01-01,SISLAB,170,Group Technology Management
+2019-04-01,OCR,550,Group Technology Management
+2019-03-01,DSC,4593,Group Technology Management
+2019-04-01,SISLAB,4557,Group Technology Management
+2019-02-01,GEORE1,0,Azure
+2019-05-01,GEORE1,0,Azure
+2019-03-01,SISLAB,12,Azure
+2019-06-01,GEORE1,2,Azure
+2019-04-01,GEORE1,37,Azure
+2019-07-01,SISLAB,5,Azure
+2019-03-01,GEORE1,1,Azure
+2019-08-01,PYTHIA,5,Azure
+2019-06-01,GEORE1,0,Azure
+2019-01-01,SISLAB,7,Swisscom
+2019-08-01,GEORE1,0,Azure
+2019-09-01,SISLAB,191,Azure
+2019-01-01,GEORE1,6,Azure
+2019-02-01,GEORE1,263,Azure
+2019-01-01,GEORE1,51,Azure
+2019-03-01,SISLAB,40,Azure
+2019-07-01,GEORE1,0,Azure
+2019-02-01,GEORE1,0,Azure
+2019-02-01,GEORE1,0,Azure
+2018-05-01,DOCSEARCH,11915,Utilization
+2019-04-01,TMA,1635,Utilization
+2019-03-01,DSW,0,Utilization
+2019-04-01,DSW,0,Utilization
+2019-08-01,SISLAB,15,Swisscom
+2019-02-01,INSIGHTSRE,147,Swisscom
+2019-07-01,PYTHIA,2,Swisscom
+2019-07-01,DSC,10,Swisscom
+2019-08-01,SAMS,1,Swisscom
+2019-08-01,PYTHIA,32,Swisscom
+2019-09-01,INSIGHTSRE,20,Swisscom
+2019-04-01,DATAROBOT,5,Swisscom
+2019-02-01,DOCSEARCH,1191,Group Technology Management
+2019-05-01,PYTHIA,1127,Group Technology Management
+2019-05-01,DSW,7404,Group Technology Management
+2019-03-01,SISLAB,4560,Group Technology Management
+2019-01-01,GEORE1,0,Azure
+2019-06-01,SISLAB,1,Azure
+2019-03-01,GEORE1,0,Azure
+2019-04-01,SISLAB,58,Azure
+2019-06-01,GEORE1,290,Azure
+2019-09-01,SISLAB,0,Azure
+2019-05-01,OCR,187,Group Technology Management
+2019-07-01,OCR,170,Group Technology Management
+2019-03-01,DOCSEARCH,170,Group Technology Management
+2019-04-01,PYTHIA,1097,Group Technology Management
+2019-08-01,TMA,126,Group Technology Management
+2018-06-01,INSIGHTSRE,1955,Utilization
+2017-10-01,TMA,5277,Utilization
+2018-02-01,DOCSEARCH,817,Utilization
+2019-03-01,OCR,409,Utilization
+2019-04-01,SAMS,41,Utilization
+2019-06-01,DOCPROXY,946,Swisscom
+2019-05-01,DATAROBOT,13,Swisscom
+2019-07-01,DSW,6,Swisscom
+2019-05-01,SAMS,23,Swisscom
+2019-08-01,TMA,22,Swisscom
+2019-09-01,DSW,349,Swisscom
+2019-08-01,INSIGHTSRE,4773,Swisscom
+2019-01-01,INSIGHTSRE,1674,Swisscom
+2019-08-01,DSC,3917,Swisscom
+2019-04-01,SISLAB,5493,Swisscom
+2019-05-01,DSW,81,Swisscom
+2019-05-01,DSW,1083,Swisscom
+2017-09-01,TMA,5277,Utilization
+2018-04-01,INSIGHTSRE,409,Utilization
+2017-06-01,OCR,409,Utilization
+2019-06-01,DNA,213,Group Technology Management
+2019-03-01,DOCSEARCH,170,Group Technology Management
+2019-04-01,DNA,170,Group Technology Management
+2019-06-01,SISLAB,170,Group Technology Management
+2019-01-01,OCR,170,Group Technology Management
+2019-09-01,TMA,1871,Group Technology Management
+2019-05-01,TMA,142,Group Technology Management
+2019-06-01,GEORE1,177,Azure
+2019-03-01,SISLAB,29,Azure
+2019-01-01,SISLAB,0,Azure
+2019-01-01,SISLAB,1,Azure
+2019-06-01,SISLAB,58,Azure
+2019-01-01,SISLAB,47,Azure
+2019-02-01,GEORE1,27,Azure
+2017-09-01,TMA,27212,Utilization
+2019-05-01,DOCSEARCH,12882,Utilization
+2018-11-01,INSIGHTSRE,2933,Utilization
+2017-04-01,DNA,6682,Utilization
+2018-12-01,OCR,2717,Utilization
+2019-05-01,DSW,835,Utilization
+2019-04-01,GEORE1,64,Azure
+2019-08-01,TMA,0,Azure
+2019-01-01,SISLAB,177,Azure
+2019-05-01,SISLAB,1,Azure
+2019-07-01,SISLAB,0,Azure
+2019-01-01,WAEXI,109,Swisscom
+2019-05-01,PYTHIA,84,Swisscom
+2019-02-01,DATAROBOT,1,Swisscom
+2019-02-01,INSIGHTSRE,4,Swisscom
+2019-04-01,SISLAB,6744,Group Technology Management
+2019-04-01,LHTI,170,Group Technology Management
+2019-07-01,VISREPBOXI,0,Group Technology Management
+2019-08-01,TMA,170,Group Technology Management
+2019-04-01,PYTHIA,170,Group Technology Management
+2019-07-01,DNA,170,Group Technology Management
+2019-08-01,SISLAB,9484,Group Technology Management
+2019-09-01,TMA,155,Swisscom
+2019-08-01,DSW,56,Swisscom
+2019-02-01,PYTHIA,740,Swisscom
+2019-01-01,PYTHIA,74,Swisscom
+2019-04-01,INSIGHTSRE,3236,Swisscom
+2019-07-01,PYTHIA,66,Swisscom
+2019-04-01,TMA,1,Swisscom
+2019-01-01,TMA,204,Swisscom
+2017-08-01,TMA,22543,Utilization
+2018-04-01,DSW,11718,Utilization
+2019-07-01,GEORE1,21,Azure
+2019-02-01,GEORE1,22,Azure
+2019-04-01,SISLAB,2,Azure
+2019-06-01,DOCSEARCH,170,Group Technology Management
+2019-02-01,DOCSEARCH,170,Group Technology Management
+2019-04-01,OCR,277,Group Technology Management
+2019-06-01,VISREPBOXI,0,Group Technology Management
+2019-04-01,DSC,4363,Group Technology Management
+2019-04-01,DOCSEARCH,550,Group Technology Management
+2019-05-01,GEORE1,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-04-01,GEORE1,5,Azure
+2019-05-01,GEORE1,1,Azure
+2019-05-01,GEORE1,20,Azure
+2019-08-01,TMA,0,Azure
+2019-08-01,GEORE1,0,Azure
+2019-07-01,SISLAB,170,Group Technology Management
+2019-01-01,WAEXI,170,Group Technology Management
+2019-03-01,BCHART,170,Group Technology Management
+2019-07-01,PYTHIA,170,Group Technology Management
+2019-05-01,SISLAB,18845,Group Technology Management
+2017-09-01,DOCSEARCH,25119,Utilization
+2018-04-01,OCR,13911,Utilization
+2019-08-01,DOCPROXY,1002,Swisscom
+2019-03-01,PYTHIA,39,Swisscom
+2019-04-01,SAMS,15,Swisscom
+2019-02-01,DATAROBOT,589,Swisscom
+2019-01-01,DSW,55,Swisscom
+2019-02-01,TMA,24,Swisscom
+2019-06-01,PYTHIA,190,Swisscom
+2019-05-01,TMA,62154,Utilization
+2018-05-01,DSW,9336,Utilization
+2019-07-01,OCR,5434,Utilization
+2018-05-01,PYTHIA,8353,Utilization
+2018-07-01,INSIGHTSRE,5012,Utilization
+2018-12-01,DOCSEARCH,0,Utilization
+2019-02-01,SISLAB,0,Azure
+2019-07-01,PYTHIA,0,Azure
+2019-09-01,GEORE1,0,Azure
+2019-01-01,SISLAB,19,Azure
+2019-04-01,DSC,1642,Group Technology Management
+2019-07-01,SISLAB,170,Group Technology Management
+2019-06-01,DNA,170,Group Technology Management
+2019-09-01,DOCSEARCH,630,Group Technology Management
+2019-05-01,TMA,59,Group Technology Management
+2019-06-01,SISLAB,4809,Group Technology Management
+2019-02-01,DOCPROXY,872,Swisscom
+2019-01-01,SAMS,11,Swisscom
+2019-01-01,DSW,402,Swisscom
+2019-04-01,PYTHIA,6,Swisscom
+2019-07-01,DATAROBOT,5,Swisscom
+2019-07-01,SISLAB,0,Azure
+2019-01-01,SISLAB,34,Azure
+2019-02-01,GEORE1,270,Azure
+2019-04-01,GEORE1,0,Azure
+2019-01-01,SISLAB,22,Azure
+2019-04-01,GEORE1,19,Azure
+2017-10-01,TMA,6597,Utilization
+2017-08-01,DNA,6682,Utilization
+2018-09-01,DSW,0,Utilization
+2018-08-01,DNA,1771,Utilization
+2017-03-01,DSW,1671,Utilization
+2019-02-01,DATAROBOT,411,Group Technology Management
+2019-03-01,SFILE,24,Group Technology Management
+2019-04-01,SFILE,24,Group Technology Management
+2019-06-01,PYTHIA,188,Group Technology Management
+2019-08-01,WATSONEXP,170,Group Technology Management
+2019-01-01,SAMS,86,Group Technology Management
+2019-07-01,OCR,943,Swisscom
+2019-05-01,DSW,4444,Swisscom
+2019-02-01,DSW,56,Swisscom
+2019-07-01,INSIGHTSRE,35,Swisscom
+2019-08-01,DSW,978,Swisscom
+2019-02-01,DSC,3744,Swisscom
+2019-03-01,DSW,6645,Swisscom
+2019-02-01,SAMS,10,Swisscom
+2019-03-01,INSIGHTSRE,16,Swisscom
+2019-03-01,DATAROBOT,462,Swisscom
+2019-08-01,DSW,19054,Utilization
+2018-06-01,INSIGHTSRE,5012,Utilization
+2019-09-01,TMA,1411,Group Technology Management
+2019-06-01,SAMS,61,Group Technology Management
+2019-07-01,WATSONEXP,170,Group Technology Management
+2019-09-01,OCR,170,Group Technology Management
+2019-04-01,DSW,170,Group Technology Management
+2019-09-01,SFILE,170,Group Technology Management
+2019-06-01,PYTHIA,170,Group Technology Management
+2019-01-01,SISLAB,18492,Group Technology Management
+2019-03-01,DOCSEARCH,630,Group Technology Management
+2019-01-01,GEORE1,2,Azure
+2019-02-01,GEORE1,14,Azure
+2019-06-01,SISLAB,0,Azure
+2019-05-01,GEORE1,41,Azure
+2019-07-01,PYTHIA,21,Azure
+2019-05-01,SISLAB,170,Group Technology Management
+2019-04-01,WATSONEXP,170,Group Technology Management
+2019-01-01,INSIGHTSRE,170,Group Technology Management
+2019-07-01,PYTHIA,13,Group Technology Management
+2019-02-01,DSW,6759,Group Technology Management
+2019-05-01,SISLAB,514,Azure
+2019-05-01,GEORE1,1,Azure
+2019-02-01,GEORE1,0,Azure
+2019-02-01,SISLAB,11,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-05-01,SISLAB,29,Azure
+2019-06-01,SISLAB,377,Azure
+2019-05-01,INSIGHTSRE,14672,Utilization
+2018-09-01,INSIGHTSRE,39468,Utilization
+2018-04-01,PYTHIA,1226,Utilization
+2019-09-01,TMA,2639,Utilization
+2019-07-01,SISLAB,40,Swisscom
+2019-05-01,TMA,164,Swisscom
+2019-04-01,PYTHIA,1349,Group Technology Management
+2019-02-01,DOCSEARCH,12,Group Technology Management
+2019-05-01,INSIGHTSRE,170,Group Technology Management
+2019-07-01,DOCSEARCH,630,Group Technology Management
+2019-07-01,SISLAB,136,Group Digital & Information Services
+2019-04-01,SISLAB,0,Azure
+2019-07-01,SISLAB,7,Azure
+2019-01-01,GEORE1,0,Azure
+2019-02-01,SISLAB,1,Azure
+2019-08-01,SISLAB,0,Azure
+2019-03-01,GEORE1,65,Azure
+2019-08-01,SISLAB,5,Azure
+2019-09-01,TMA,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-08-01,DSW,1698,Swisscom
+2019-05-01,DSC,59,Swisscom
+2019-01-01,TMA,20,Swisscom
+2019-03-01,PYTHIA,1671,Utilization
+2019-09-01,INSIGHTSRE,1996,Swisscom
+2019-01-01,SAMS,4,Swisscom
+2019-08-01,TMA,16,Swisscom
+2019-08-01,SAMS,11,Swisscom
+2019-01-01,SISLAB,9,Swisscom
+2019-01-01,DATAROBOT,285,Swisscom
+2019-01-01,SISLAB,4,Azure
+2019-09-01,SISLAB,3,Azure
+2019-01-01,GEORE1,0,Azure
+2019-02-01,PYTHIA,18,Azure
+2019-07-01,GEORE1,0,Azure
+2019-04-01,GEORE1,0,Azure
+2019-01-01,OCR,133,Group Technology Management
+2019-08-01,SAMS,61,Group Technology Management
+2019-09-01,LHTI,55,Group Technology Management
+2019-09-01,PYTHIA,710,Group Technology Management
+2019-06-01,DOCSEARCH,170,Group Technology Management
+2019-02-01,INSIGHTSRE,9737,Group Technology Management
+2018-06-01,DOCSEARCH,22382,Utilization
+2018-05-01,OCR,1226,Utilization
+2019-03-01,TMA,2639,Utilization
+2017-06-01,SAMS,644,Utilization
+2019-02-01,TMA,38806,Utilization
+2019-07-01,PYTHIA,4764,Utilization
+2018-09-01,INSIGHTSRE,978,Utilization
+2018-09-01,TMA,2639,Utilization
+2018-02-01,DNA,835,Utilization
+2018-08-01,SAMS,483,Utilization
+2019-07-01,DNA,213,Group Technology Management
+2019-01-01,WATSONEXP,170,Group Technology Management
+2019-04-01,DATAROBOT,8,Swisscom
+2019-07-01,PYTHIA,84,Swisscom
+2019-05-01,DSW,7321,Swisscom
+2019-07-01,DSW,12034,Swisscom
+2019-08-01,SAMS,17,Swisscom
+2019-03-01,PYTHIA,2,Swisscom
+2019-02-01,INSIGHTSRE,1003,Swisscom
+2019-04-01,TMA,197,Swisscom
+2019-07-01,GEORE1,0,Azure
+2019-04-01,GEORE1,0,Azure
+2019-01-01,SISLAB,58,Azure
+2019-05-01,GEORE1,45,Azure
+2017-12-01,DOCSEARCH,15297,Utilization
+2018-07-01,OCR,1226,Utilization
+2018-08-01,TMA,2639,Utilization
+2019-03-01,TMA,1087,Utilization
+2018-10-01,DSW,2157,Utilization
+2017-02-01,SAMS,644,Utilization
+2018-01-01,SAMS,644,Utilization
+2019-04-01,SISLAB,2,Azure
+2019-03-01,GEORE1,0,Azure
+2019-01-01,SISLAB,19,Azure
+2019-04-01,SISLAB,11,Azure
+2019-04-01,GEORE1,107,Azure
+2019-02-01,PYTHIA,156,Azure
+2019-05-01,DNA,213,Group Technology Management
+2019-06-01,INSIGHTSRE,170,Group Technology Management
+2019-02-01,VISREPBOXI,0,Group Technology Management
+2019-07-01,INSIGHTSRE,1138,Swisscom
+2019-04-01,PYTHIA,64,Swisscom
+2019-02-01,DSW,290,Swisscom
+2019-06-01,PYTHIA,710,Group Technology Management
+2019-08-01,DNA,213,Group Technology Management
+2019-05-01,OCR,170,Group Technology Management
+2019-07-01,OCR,170,Group Technology Management
+2019-09-01,TMA,59,Group Technology Management
+2019-06-01,PYTHIA,13,Group Technology Management
+2019-03-01,SAMS,550,Group Technology Management
+2018-12-01,DSW,15338,Utilization
+2018-11-01,DOCSEARCH,20611,Utilization
+2017-04-01,TMA,2861,Utilization
+2019-03-01,PYTHIA,3620,Utilization
+2018-04-01,DSW,0,Utilization
+2017-02-01,OCR,409,Utilization
+2019-03-01,DSW,35,Swisscom
+2019-03-01,PYTHIA,82,Swisscom
+2019-03-01,TMA,0,Swisscom
+2019-09-01,DSC,860,Swisscom
+2019-08-01,DSW,1396,Swisscom
+2019-03-01,SISLAB,9895,Swisscom
+2019-07-01,DSC,4290,Swisscom
+2019-03-01,DATAROBOT,44,Swisscom
+2019-05-01,INSIGHTSRE,8435,Swisscom
+2019-06-01,DATAROBOT,5,Swisscom
+2019-09-01,SISLAB,0,Azure
+2019-05-01,PYTHIA,173,Azure
+2019-07-01,SISLAB,22,Azure
+2019-07-01,GEORE1,68,Azure
+2019-09-01,SISLAB,1,Azure
+2019-08-01,SISLAB,0,Azure
+2019-02-01,GEORE1,26,Azure
+2019-08-01,SISLAB,234,Azure
+2019-09-01,GEORE1,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-07-01,SISLAB,7507,Group Technology Management
+2019-07-01,DNA,170,Group Technology Management
+2019-03-01,DSC,2468,Swisscom
+2019-05-01,SAMS,11,Swisscom
+2019-03-01,DSC,3513,Swisscom
+2019-09-01,TMA,8,Swisscom
+2019-01-01,DSW,626,Swisscom
+2019-09-01,PYTHIA,63,Swisscom
+2018-11-01,PYTHIA,4859,Utilization
+2018-10-01,SAMS,483,Utilization
+2019-04-01,SAMS,117,Group Technology Management
+2019-06-01,TMA,59,Group Technology Management
+2019-03-01,INSIGHTSRE,170,Group Technology Management
+2019-06-01,DSW,170,Group Technology Management
+2019-08-01,DOCSEARCH,170,Group Technology Management
+2019-06-01,SISLAB,0,Azure
+2019-03-01,GEORE1,10,Azure
+2019-08-01,SISLAB,6,Azure
+2019-04-01,TMA,4,Azure
+2019-03-01,TMA,74,Swisscom
+2019-03-01,DSW,25,Swisscom
+2019-08-01,TMA,1,Swisscom
+2019-06-01,SISLAB,9638,Swisscom
+2018-12-01,INSIGHTSRE,21725,Utilization
+2019-03-01,INSIGHTSRE,2677,Utilization
+2019-06-01,TMA,2639,Utilization
+2019-07-01,LHTI,170,Group Technology Management
+2019-08-01,WATSONEXP,170,Group Technology Management
+2019-05-01,LHTI,170,Group Technology Management
+2019-01-01,SAMS,77,Group Technology Management
+2019-05-01,DSW,170,Group Technology Management
+2019-03-01,TMA,170,Group Technology Management
+2019-06-01,DSC,4388,Group Technology Management
+2019-05-01,DSW,240,Utilization
+2019-03-01,GEORE1,89,Azure
+2019-02-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-08-01,GEORE1,0,Azure
+2019-09-01,SISLAB,4,Azure
+2019-03-01,SISLAB,18,Azure
+2019-06-01,TMA,8564,Swisscom
+2019-05-01,INSIGHTSRE,9098,Swisscom
+2019-04-01,INSIGHTSRE,254,Swisscom
+2019-09-01,SAMS,0,Swisscom
+2019-03-01,TMA,204,Swisscom
+2019-02-01,TMA,5,Swisscom
+2019-02-01,DOCPROXY,62,Group Technology Management
+2019-05-01,SAMS,117,Group Technology Management
+2019-02-01,TMA,59,Group Technology Management
+2019-07-01,OCR,187,Group Technology Management
+2019-09-01,DOCSEARCH,170,Group Technology Management
+2019-07-01,SISLAB,710,Group Technology Management
+2019-04-01,GEORE1,170,Group Technology Management
+2019-02-01,SAMS,170,Group Technology Management
+2019-07-01,SAMS,170,Group Technology Management
+2019-01-01,INSIGHTSRE,9867,Group Technology Management
+2019-07-01,GEORE1,0,Azure
+2019-07-01,GEORE1,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-06-01,SISLAB,17,Azure
+2018-12-01,INSIGHTSRE,2933,Utilization
+2019-02-01,DSW,3525,Utilization
+2019-01-01,TMA,2639,Utilization
+2019-01-01,INSIGHTSRE,1778,Swisscom
+2019-02-01,DSW,1,Swisscom
+2019-06-01,SISLAB,5158,Swisscom
+2019-01-01,PYTHIA,1349,Group Technology Management
+2019-04-01,PYTHIA,170,Group Technology Management
+2019-04-01,SISLAB,170,Group Technology Management
+2019-09-01,LHTI,170,Group Technology Management
+2019-05-01,SISLAB,170,Group Technology Management
+2019-02-01,DSW,170,Group Technology Management
+2019-08-01,GEORE1,170,Group Technology Management
+2019-08-01,SISLAB,21,Azure
+2019-07-01,SISLAB,0,Azure
+2019-03-01,GEORE1,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-03-01,GEORE1,12,Azure
+2019-07-01,SISLAB,0,Azure
+2019-09-01,GEORE1,0,Azure
+2018-08-01,DSW,18197,Utilization
+2018-09-01,PYTHIA,1955,Utilization
+2018-11-01,DOCSEARCH,817,Utilization
+2019-01-01,SISLAB,441,Swisscom
+2019-08-01,DATAROBOT,418,Swisscom
+2019-05-01,PYTHIA,2,Swisscom
+2019-03-01,DATAROBOT,1622,Swisscom
+2019-08-01,TMA,275,Swisscom
+2019-08-01,INSIGHTSRE,8036,Swisscom
+2019-01-01,DNA,1273,Swisscom
+2019-04-01,DSW,4421,Swisscom
+2019-01-01,INSIGHTSRE,12,Swisscom
+2019-08-01,SISLAB,40,Swisscom
+2019-01-01,SAMS,6,Swisscom
+2019-03-01,GEORE1,2,Azure
+2019-08-01,SISLAB,0,Azure
+2019-03-01,GEORE1,12,Azure
+2019-05-01,SISLAB,1,Azure
+2019-01-01,SISLAB,0,Azure
+2019-04-01,GEORE1,21,Azure
+2019-07-01,SISLAB,15,Azure
+2019-04-01,TMA,0,Azure
+2019-09-01,PYTHIA,0,Azure
+2019-05-01,PYTHIA,1349,Group Technology Management
+2019-09-01,PYTHIA,170,Group Technology Management
+2019-09-01,OCR,170,Group Technology Management
+2019-02-01,DATAROBOT,170,Group Technology Management
+2019-04-01,SAMS,550,Group Technology Management
+2018-06-01,TMA,32204,Utilization
+2018-10-01,DSW,9908,Utilization
+2018-02-01,TMA,4087,Utilization
+2017-01-01,TMA,9661,Utilization
+2019-04-01,INSIGHTSRE,4015,Utilization
+2018-01-01,DSW,19626,Utilization
+2017-01-01,DNA,0,Utilization
+2018-11-01,DSW,0,Utilization
+2018-05-01,DOCSEARCH,0,Utilization
+2018-09-01,SAMS,644,Utilization
+2019-08-01,SAMS,41,Utilization
+2019-02-01,DSW,3896,Swisscom
+2019-03-01,INSIGHTSRE,263,Swisscom
+2019-07-01,SAMS,11,Swisscom
+2019-02-01,SISLAB,170,Group Technology Management
+2019-06-01,SAMS,170,Group Technology Management
+2019-09-01,LHTI,170,Group Technology Management
+2019-02-01,BCHART,170,Group Technology Management
+2019-08-01,SISLAB,170,Group Technology Management
+2019-04-01,GEORE1,170,Group Technology Management
+2019-01-01,TMA,1871,Group Technology Management
+2019-01-01,PYTHIA,1516,Group Technology Management
+2019-08-01,INSIGHTSRE,89,Group Technology Management
+2019-07-01,SISLAB,0,Azure
+2019-08-01,SISLAB,17,Azure
+2019-04-01,SISLAB,20,Azure
+2019-08-01,SISLAB,2,Azure
+2019-02-01,DNA,170,Group Technology Management
+2019-03-01,DNA,170,Group Technology Management
+2019-01-01,GEORE1,170,Group Technology Management
+2019-02-01,SISLAB,264,Group Digital & Information Services
+2019-07-01,DSC,1,Group Technology Management
+2019-05-01,GEORE1,18,Azure
+2019-07-01,SISLAB,33,Azure
+2019-05-01,SISLAB,47,Azure
+2019-01-01,GEORE1,167,Azure
+2019-06-01,SISLAB,0,Azure
+2019-07-01,SISLAB,1,Azure
+2019-01-01,SISLAB,112,Azure
+2018-02-01,DSW,15871,Utilization
+2018-07-01,INSIGHTSRE,1955,Utilization
+2019-03-01,DNA,1671,Utilization
+2017-12-01,DNA,1288,Utilization
+2019-09-01,TMA,28,Swisscom
+2019-01-01,DSC,0,Swisscom
+2019-04-01,DSC,3860,Swisscom
+2019-05-01,SAMS,18,Swisscom
+2019-06-01,SAMS,76,Swisscom
+2018-12-01,DSW,4644,Utilization
+2018-10-01,INSIGHTSRE,13365,Utilization
+2017-10-01,TMA,2444,Utilization
+2019-06-01,DSW,0,Utilization
+2018-08-01,PYTHIA,978,Utilization
+2018-03-01,SAMS,644,Utilization
+2019-05-01,GEORE1,4,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-03-01,GEORE1,0,Azure
+2019-01-01,SISLAB,16,Azure
+2019-04-01,GEORE1,0,Azure
+2019-05-01,SISLAB,21,Azure
+2019-03-01,INSIGHTSRE,2522,Group Technology Management
+2019-09-01,TMA,917,Group Technology Management
+2019-03-01,DOCSEARCH,170,Group Technology Management
+2019-01-01,DOCSEARCH,170,Group Technology Management
+2019-05-01,OCR,170,Group Technology Management
+2019-03-01,SISLAB,188,Swisscom
+2019-06-01,TMA,12,Swisscom
+2019-03-01,PYTHIA,65,Swisscom
+2019-07-01,INSIGHTSRE,4720,Swisscom
+2019-07-01,DSW,1261,Swisscom
+2019-04-01,DATAROBOT,1,Swisscom
+2019-07-01,DSW,32,Swisscom
+2019-06-01,DATAROBOT,411,Group Technology Management
+2019-09-01,INSIGHTSRE,170,Group Technology Management
+2019-02-01,SISLAB,170,Group Technology Management
+2019-03-01,TMA,170,Group Technology Management
+2019-06-01,SAMS,550,Group Technology Management
+2019-04-01,DSW,3422,Utilization
+2019-06-01,PYTHIA,4764,Utilization
+2017-10-01,OCR,1522,Utilization
+2019-03-01,GEORE1,5,Azure
+2019-02-01,SISLAB,63,Azure
+2019-05-01,SISLAB,0,Azure
+2019-01-01,SISLAB,1,Azure
+2019-07-01,SISLAB,30,Azure
+2019-05-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-03-01,WATSONEXP,170,Group Technology Management
+2019-01-01,DOCSEARCH,170,Group Technology Management
+2019-09-01,TMA,170,Group Technology Management
+2019-04-01,TMA,170,Group Technology Management
+2019-09-01,VISREPBOXI,0,Group Technology Management
+2019-06-01,SISLAB,102,Group Digital & Information Services
+2018-04-01,DOCSEARCH,21416,Utilization
+2019-06-01,DOCSEARCH,19322,Utilization
+2018-04-01,OCR,1226,Utilization
+2019-04-01,SAMS,483,Utilization
+2019-09-01,GEORE1,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-07-01,SISLAB,49,Azure
+2019-09-01,TMA,0,Azure
+2019-01-01,GEORE1,67,Azure
+2019-05-01,INSIGHTSRE,4710,Swisscom
+2019-05-01,SISLAB,2155,Swisscom
+2019-03-01,DSW,62,Swisscom
+2019-09-01,INSIGHTSRE,11,Swisscom
+2019-04-01,TMA,60,Swisscom
+2019-06-01,TMA,39,Swisscom
+2019-07-01,SISLAB,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-07-01,PYTHIA,0,Azure
+2019-09-01,PYTHIA,0,Azure
+2019-08-01,PYTHIA,0,Azure
+2018-10-01,PYTHIA,1466,Utilization
+2018-06-01,SAMS,483,Utilization
+2019-07-01,PYTHIA,861,Swisscom
+2019-09-01,DATAROBOT,170,Swisscom
+2019-06-01,DSW,1835,Swisscom
+2019-02-01,INSIGHTSRE,568,Swisscom
+2019-04-01,DSW,146,Swisscom
+2019-06-01,INSIGHTSRE,5161,Group Technology Management
+2019-05-01,TMA,160,Group Technology Management
+2019-04-01,VISREPBOXI,2146,Group Technology Management
+2019-06-01,DNA,170,Group Technology Management
+2019-09-01,SISLAB,170,Group Technology Management
+2019-04-01,LHTI,55,Group Technology Management
+2019-05-01,LHTI,55,Group Technology Management
+2019-04-01,DATAROBOT,170,Group Technology Management
+2019-06-01,SISLAB,18845,Group Technology Management
+2019-08-01,INSIGHTSRE,1098,Group Technology Management
+2019-06-01,DSW,170,Group Technology Management
+2019-02-01,SISLAB,18492,Group Technology Management
+2019-06-01,PYTHIA,1090,Group Technology Management
+2019-01-01,SISLAB,339,Group Digital & Information Services
+2019-08-01,SISLAB,28,Azure
+2019-04-01,PYTHIA,0,Azure
+2019-04-01,SISLAB,0,Azure
+2019-03-01,GEORE1,0,Azure
+2019-04-01,SISLAB,22,Azure
+2018-05-01,DSW,5751,Utilization
+2017-11-01,DNA,2254,Utilization
+2019-02-01,DSW,2636,Utilization
+2017-07-01,SAMS,644,Utilization
+2019-06-01,DATAROBOT,1,Swisscom
+2019-04-01,DSW,609,Swisscom
+2019-07-01,SISLAB,2235,Swisscom
+2019-04-01,SISLAB,1993,Swisscom
+2019-06-01,DSW,433,Swisscom
+2019-05-01,SAMS,78,Swisscom
+2019-03-01,TMA,4,Azure
+2019-01-01,PYTHIA,0,Azure
+2019-03-01,SISLAB,1,Azure
+2019-01-01,SISLAB,2,Azure
+2019-08-01,SISLAB,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-09-01,SISLAB,2,Azure
+2019-04-01,TMA,160,Group Technology Management
+2019-05-01,DOCSEARCH,630,Group Technology Management
+2019-07-01,TMA,45,Group Technology Management
+2019-03-01,SAMS,77,Group Technology Management
+2019-04-01,TMA,59,Group Technology Management
+2019-09-01,SAMS,7,Swisscom
+2019-01-01,PYTHIA,266,Swisscom
+2019-03-01,TMA,51848,Utilization
+2019-04-01,TMA,46052,Utilization
+2018-06-01,DSW,20769,Utilization
+2018-07-01,DSW,20674,Utilization
+2018-12-01,DSW,4074,Utilization
+2018-07-01,TMA,27051,Utilization
+2018-01-01,OCR,13150,Utilization
+2019-04-01,DSW,2933,Utilization
+2018-03-01,INSIGHTSRE,978,Utilization
+2019-06-01,GEORE1,14,Azure
+2019-07-01,GEORE1,0,Azure
+2019-09-01,SISLAB,5,Azure
+2019-07-01,GEORE1,0,Azure
+2019-06-01,SISLAB,46,Azure
+2019-07-01,PYTHIA,179,Azure
+2019-02-01,GEORE1,6,Azure
+2019-05-01,INSIGHTSRE,13007,Swisscom
+2019-04-01,DATAROBOT,574,Swisscom
+2019-02-01,SAMS,71,Swisscom
+2019-06-01,SISLAB,19,Swisscom
+2019-05-01,DSW,4164,Group Technology Management
+2019-05-01,OCR,170,Group Technology Management
+2019-01-01,TMA,59,Group Technology Management
+2019-09-01,SFILE,710,Group Technology Management
+2019-02-01,OCR,277,Group Technology Management
+2019-06-01,LHTI,170,Group Technology Management
+2019-03-01,DSW,170,Group Technology Management
+2019-09-01,DNA,170,Group Technology Management
+2019-04-01,SAMS,77,Group Technology Management
+2019-06-01,TMA,917,Group Technology Management
+2019-04-01,SISLAB,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-04-01,GEORE1,1,Azure
+2019-09-01,TMA,0,Azure
+2019-01-01,SISLAB,0,Azure
+2017-01-01,TMA,2452,Utilization
+2018-09-01,TMA,5277,Utilization
+2017-11-01,DOCSEARCH,817,Utilization
+2018-07-01,TMA,817,Utilization
+2019-09-01,DSW,2,Swisscom
+2019-05-01,INSIGHTSRE,330,Swisscom
+2019-02-01,SAMS,1,Swisscom
+2019-09-01,SISLAB,5,Swisscom
+2019-05-01,TMA,23,Swisscom
+2019-03-01,DOCPROXY,968,Swisscom
+2019-01-01,DATAROBOT,1146,Swisscom
+2019-03-01,INSIGHTSRE,5702,Swisscom
+2019-01-01,DATAROBOT,308,Swisscom
+2019-09-01,PYTHIA,1,Swisscom
+2019-09-01,DSW,675,Swisscom
+2019-09-01,SISLAB,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-06-01,SISLAB,12,Azure
+2019-07-01,PYTHIA,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-06-01,GEORE1,3,Azure
+2019-02-01,SISLAB,13,Azure
+2017-12-01,TMA,18356,Utilization
+2018-02-01,OCR,11303,Utilization
+2018-08-01,PYTHIA,1955,Utilization
+2018-07-01,PYTHIA,1955,Utilization
+2019-03-01,PYTHIA,489,Utilization
+2019-02-01,SAMS,644,Utilization
+2019-05-01,DNA,170,Group Technology Management
+2019-01-01,DATAROBOT,170,Group Technology Management
+2019-03-01,DSW,7060,Group Technology Management
+2019-05-01,LHTI,293,Swisscom
+2019-03-01,SISLAB,15,Swisscom
+2019-01-01,DSC,0,Swisscom
+2019-09-01,SISLAB,0,Azure
+2019-06-01,GEORE1,3,Azure
+2019-08-01,SISLAB,0,Azure
+2019-05-01,SISLAB,15,Azure
+2019-01-01,SISLAB,0,Azure
+2019-02-01,DSW,17149,Utilization
+2019-02-01,DSW,3422,Utilization
+2017-02-01,DOCSEARCH,6521,Utilization
+2019-08-01,SISLAB,18845,Group Technology Management
+2019-08-01,DNA,170,Group Technology Management
+2019-02-01,SISLAB,710,Group Technology Management
+2019-02-01,SISLAB,170,Group Technology Management
+2019-02-01,SISLAB,170,Group Technology Management
+2019-04-01,DATAROBOT,1570,Group Technology Management
+2019-05-01,SISLAB,359,Group Digital & Information Services
+2019-08-01,GEORE1,3,Azure
+2019-08-01,GEORE1,0,Azure
+2019-01-01,SISLAB,6,Azure
+2019-09-01,GEORE1,16,Azure
+2019-09-01,SISLAB,0,Azure
+2017-11-01,TMA,3958,Utilization
+2017-09-01,TMA,2639,Utilization
+2019-01-01,DOCSEARCH,572,Utilization
+2019-02-01,SAMS,117,Group Technology Management
+2019-08-01,SISLAB,170,Group Technology Management
+2019-04-01,PYTHIA,170,Group Technology Management
+2019-03-01,WATSONEXP,170,Group Technology Management
+2019-09-01,VISREPBOXI,2146,Group Technology Management
+2019-04-01,TMA,1,Swisscom
+2019-09-01,SISLAB,1962,Swisscom
+2019-09-01,SISLAB,0,Azure
+2019-02-01,GEORE1,0,Azure
+2019-07-01,SISLAB,24,Azure
+2019-06-01,SISLAB,14,Azure
+2019-01-01,PYTHIA,173,Azure
+2019-04-01,SISLAB,0,Azure
+2019-06-01,TMA,142,Azure
+2018-05-01,PYTHIA,1466,Utilization
+2018-10-01,PYTHIA,3341,Utilization
+2019-02-01,PYTHIA,1671,Utilization
+2017-04-01,SAMS,644,Utilization
+2019-08-01,SAMS,59,Swisscom
+2019-05-01,DSW,1261,Swisscom
+2019-02-01,INSIGHTSRE,1612,Swisscom
+2019-08-01,INSIGHTSRE,94,Swisscom
+2019-02-01,INSIGHTSRE,3345,Swisscom
+2019-09-01,DNA,170,Group Technology Management
+2019-09-01,DNA,170,Group Technology Management
+2019-04-01,TMA,170,Group Technology Management
+2019-04-01,WATSONEXP,170,Group Technology Management
+2019-04-01,TMA,116,Group Technology Management
+2019-09-01,DSC,1877,Group Technology Management
+2019-09-01,DOCSEARCH,550,Group Technology Management
+2019-02-01,SFILE,24,Group Technology Management
+2019-02-01,DSW,170,Group Technology Management
+2019-03-01,TMA,133,Group Technology Management
+2019-08-01,SISLAB,68,Group Digital & Information Services
+2019-05-01,SISLAB,4790,Group Technology Management
+2017-02-01,OCR,10466,Utilization
+2017-08-01,DSW,2444,Utilization
+2018-12-01,TMA,5277,Utilization
+2019-04-01,PYTHIA,3285,Utilization
+2019-01-01,GEORE1,0,Azure
+2019-05-01,GEORE1,2,Azure
+2019-09-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-04-01,GEORE1,84,Azure
+2019-04-01,SISLAB,104,Azure
+2019-04-01,SAMS,66,Swisscom
+2019-02-01,SISLAB,3,Swisscom
+2019-01-01,TMA,42,Swisscom
+2019-01-01,PYTHIA,50,Swisscom
+2019-01-01,SAMS,117,Group Technology Management
+2019-04-01,DNA,213,Group Technology Management
+2019-03-01,INSIGHTSRE,170,Group Technology Management
+2019-07-01,PYTHIA,170,Group Technology Management
+2019-07-01,DNA,1272,Swisscom
+2019-01-01,INSIGHTSRE,2967,Swisscom
+2019-05-01,DSW,25,Swisscom
+2017-01-01,DNA,20450,Utilization
+2017-08-01,OCR,12498,Utilization
+2018-12-01,DNA,8353,Utilization
+2018-10-01,TMA,2639,Utilization
+2019-07-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-08-01,SISLAB,0,Azure
+2019-01-01,SISLAB,19,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-03-01,SISLAB,24,Azure
+2019-09-01,TMA,0,Azure
+2017-06-01,OCR,10325,Utilization
+2019-01-01,INSIGHTSRE,8353,Utilization
+2017-03-01,DOCSEARCH,4347,Utilization
+2019-06-01,INSIGHTSRE,6682,Utilization
+2018-12-01,DOCSEARCH,817,Utilization
+2019-06-01,SISLAB,710,Group Technology Management
+2019-06-01,TMA,170,Group Technology Management
+2019-08-01,SISLAB,170,Group Technology Management
+2019-05-01,TMA,170,Group Technology Management
+2019-09-01,TMA,47,Group Technology Management
+2019-02-01,INSIGHTSRE,4681,Swisscom
+2019-05-01,TMA,82,Swisscom
+2019-04-01,DSW,31,Swisscom
+2019-03-01,TMA,6,Swisscom
+2019-07-01,PYTHIA,196,Swisscom
+2019-03-01,SISLAB,2,Azure
+2019-09-01,TMA,1,Azure
+2019-07-01,SISLAB,60,Azure
+2019-09-01,GEORE1,0,Azure
+2019-02-01,SISLAB,43,Azure
+2019-04-01,SISLAB,0,Azure
+2019-09-01,GEORE1,4,Azure
+2019-01-01,GEORE1,0,Azure
+2019-09-01,GEORE1,0,Azure
+2019-06-01,SISLAB,2,Azure
+2019-06-01,SISLAB,5,Azure
+2019-03-01,TMA,0,Swisscom
+2019-04-01,PYTHIA,295,Swisscom
+2019-02-01,DATAROBOT,475,Swisscom
+2019-06-01,SISLAB,15,Swisscom
+2019-03-01,DSC,23,Swisscom
+2019-03-01,SISLAB,6,Swisscom
+2019-04-01,TMA,247,Swisscom
+2019-04-01,SISLAB,19,Swisscom
+2019-03-01,PYTHIA,170,Group Technology Management
+2019-09-01,TMA,47,Group Technology Management
+2018-05-01,INSIGHTSRE,4954,Utilization
+2019-04-01,INSIGHTSRE,2174,Utilization
+2019-04-01,TMA,2639,Utilization
+2017-09-01,DSW,1671,Utilization
+2019-05-01,GEORE1,0,Azure
+2019-08-01,PYTHIA,173,Azure
+2019-07-01,SISLAB,0,Azure
+2019-07-01,SISLAB,46,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-01-01,GEORE1,0,Azure
+2019-07-01,SISLAB,170,Group Technology Management
+2019-01-01,WATSONEXP,170,Group Technology Management
+2019-06-01,OCR,943,Group Technology Management
+2019-01-01,TMA,8,Swisscom
+2019-09-01,DSW,246,Swisscom
+2019-07-01,INSIGHTSRE,8955,Swisscom
+2019-03-01,SISLAB,20,Swisscom
+2018-08-01,PYTHIA,5012,Utilization
+2019-09-01,DSW,0,Utilization
+2019-05-01,GEORE1,0,Azure
+2019-07-01,PYTHIA,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-07-01,GEORE1,4,Azure
+2019-05-01,PYTHIA,0,Azure
+2019-02-01,SISLAB,2,Azure
+2019-05-01,SISLAB,1,Azure
+2019-07-01,PYTHIA,0,Azure
+2018-02-01,TMA,45569,Utilization
+2019-03-01,INSIGHTSRE,8353,Utilization
+2017-12-01,TMA,1222,Utilization
+2019-08-01,SISLAB,170,Group Technology Management
+2019-01-01,DNA,170,Group Technology Management
+2019-09-01,SAMS,61,Group Technology Management
+2019-01-01,INSIGHTSRE,4266,Swisscom
+2019-08-01,INSIGHTSRE,35,Swisscom
+2019-03-01,DATAROBOT,6,Swisscom
+2019-08-01,SAMS,117,Group Technology Management
+2019-08-01,OCR,92,Group Technology Management
+2019-07-01,GEORE1,170,Group Technology Management
+2019-05-01,TMA,1871,Group Technology Management
+2019-04-01,DSW,6777,Group Technology Management
+2019-01-01,TMA,11341,Swisscom
+2019-02-01,TMA,9694,Swisscom
+2019-07-01,INSIGHTSRE,7844,Swisscom
+2019-09-01,GEORE1,13,Azure
+2019-05-01,SISLAB,0,Azure
+2019-01-01,SISLAB,23,Azure
+2019-05-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-07-01,SISLAB,8,Azure
+2019-09-01,SISLAB,4,Azure
+2019-02-01,DOCSEARCH,19966,Utilization
+2017-10-01,TMA,4087,Utilization
+2018-03-01,OCR,7064,Utilization
+2018-06-01,TMA,1226,Utilization
+2019-06-01,INSIGHTSRE,20959,Utilization
+2017-10-01,OCR,4026,Utilization
+2019-07-01,TMA,2717,Utilization
+2018-03-01,DSW,0,Utilization
+2018-08-01,INSIGHTSRE,409,Utilization
+2019-02-01,TMA,101,Swisscom
+2019-01-01,DSW,62,Swisscom
+2019-03-01,DSC,1,Swisscom
+2019-05-01,SISLAB,145,Azure
+2019-01-01,SISLAB,10,Azure
+2019-05-01,TMA,0,Azure
+2019-04-01,SISLAB,5,Azure
+2019-09-01,DATAROBOT,411,Group Technology Management
+2019-03-01,SISLAB,710,Group Technology Management
+2019-04-01,SISLAB,170,Group Technology Management
+2019-05-01,DSW,170,Group Technology Management
+2019-08-01,TMA,170,Group Technology Management
+2019-07-01,OCR,292,Group Technology Management
+2019-07-01,INSIGHTSRE,45,Group Technology Management
+2019-09-01,GEORE1,0,Azure
+2019-08-01,SISLAB,2,Azure
+2019-08-01,GEORE1,0,Azure
+2019-02-01,PYTHIA,0,Azure
+2019-07-01,SISLAB,21,Azure
+2019-03-01,SAMS,117,Group Technology Management
+2019-04-01,INSIGHTSRE,170,Group Technology Management
+2019-03-01,GEORE1,170,Group Technology Management
+2019-07-01,INSIGHTSRE,13800,Swisscom
+2019-07-01,DATAROBOT,462,Swisscom
+2019-04-01,INSIGHTSRE,432,Swisscom
+2019-08-01,DATAROBOT,589,Swisscom
+2019-01-01,DSC,2531,Swisscom
+2019-02-01,DSW,529,Swisscom
+2019-06-01,PYTHIA,34,Swisscom
+2018-09-01,INSIGHTSRE,7812,Utilization
+2018-05-01,PYTHIA,4888,Utilization
+2018-08-01,INSIGHTSRE,7431,Utilization
+2017-03-01,SAMS,6602,Utilization
+2017-01-01,DOCSEARCH,817,Utilization
+2019-01-01,DNA,1671,Utilization
+2019-03-01,VISREPBOXI,2146,Group Technology Management
+2019-06-01,SAMS,117,Group Technology Management
+2019-03-01,OCR,170,Group Technology Management
+2019-03-01,OCR,170,Group Technology Management
+2019-09-01,INSIGHTSRE,170,Group Technology Management
+2019-01-01,SAMS,550,Group Technology Management
+2019-06-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-01-01,GEORE1,9,Azure
+2019-05-01,SISLAB,0,Azure
+2019-08-01,SISLAB,0,Azure
+2019-01-01,LHTI,293,Swisscom
+2019-05-01,PYTHIA,79,Swisscom
+2019-03-01,DSW,1518,Swisscom
+2019-03-01,DSW,472,Swisscom
+2019-07-01,SISLAB,3,Azure
+2019-01-01,SISLAB,34,Azure
+2019-05-01,SISLAB,0,Azure
+2019-05-01,GEORE1,0,Azure
+2019-03-01,GEORE1,1,Azure
+2018-09-01,DOCSEARCH,18517,Utilization
+2019-01-01,SAMS,12,Swisscom
+2019-05-01,SISLAB,22,Swisscom
+2019-09-01,DSW,16,Swisscom
+2019-06-01,PYTHIA,6,Swisscom
+2019-08-01,DSW,1608,Swisscom
+2019-02-01,DSC,1466,Group Technology Management
+2019-07-01,DOCSEARCH,170,Group Technology Management
+2019-05-01,DOCPROXY,170,Group Technology Management
+2019-04-01,OCR,170,Group Technology Management
+2019-01-01,TMA,170,Group Technology Management
+2019-04-01,SISLAB,170,Group Technology Management
+2019-05-01,GEORE1,170,Group Technology Management
+2019-03-01,OCR,880,Group Technology Management
+2019-06-01,VISREPBOXI,2146,Group Technology Management
+2019-06-01,INSIGHTSRE,4838,Swisscom
+2019-03-01,INSIGHTSRE,5006,Swisscom
+2019-05-01,DSC,3,Swisscom
+2019-06-01,DSW,31,Swisscom
+2019-02-01,SISLAB,17,Swisscom
+2017-03-01,DSW,978,Utilization
+2017-07-01,TMA,2639,Utilization
+2019-02-01,INSIGHTSRE,1703,Utilization
+2018-11-01,PYTHIA,244,Utilization
+2019-06-01,SISLAB,2,Azure
+2019-06-01,SISLAB,0,Azure
+2019-05-01,SISLAB,478,Azure
+2019-03-01,SISLAB,19,Azure
+2019-09-01,GEORE1,58,Azure
+2019-08-01,SISLAB,20,Azure
+2019-09-01,SISLAB,170,Group Technology Management
+2019-06-01,DOCPROXY,187,Group Technology Management
+2019-07-01,DOCPROXY,187,Group Technology Management
+2019-06-01,SISLAB,8850,Group Technology Management
+2019-02-01,GEORE1,4,Azure
+2019-03-01,SISLAB,9,Azure
+2019-01-01,PYTHIA,20,Azure
+2019-06-01,SISLAB,2,Azure
+2019-09-01,SISLAB,1,Azure
+2019-03-01,GEORE1,0,Azure
+2019-07-01,PYTHIA,0,Azure
+2019-07-01,TMA,0,Azure
+2019-01-01,SISLAB,219,Azure
+2019-08-01,TMA,419,Swisscom
+2019-04-01,TMA,467,Swisscom
+2019-02-01,PYTHIA,134,Swisscom
+2019-08-01,TMA,29,Swisscom
+2019-07-01,TMA,240,Swisscom
+2019-03-01,INSIGHTSRE,1,Swisscom
+2019-07-01,DOCPROXY,170,Group Technology Management
+2019-07-01,INSIGHTSRE,170,Group Technology Management
+2019-09-01,GEORE1,170,Group Technology Management
+2019-03-01,DSC,1466,Group Technology Management
+2019-07-01,INSIGHTSRE,170,Group Technology Management
+2019-05-01,GEORE1,170,Group Technology Management
+2019-04-01,SISLAB,170,Group Technology Management
+2019-08-01,SISLAB,27,Group Technology Management
+2017-11-01,OCR,9238,Utilization
+2018-03-01,DNA,835,Utilization
+2019-07-01,PYTHIA,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-08-01,SISLAB,22,Azure
+2019-08-01,GEORE1,0,Azure
+2019-04-01,SISLAB,1,Azure
+2019-07-01,SISLAB,15,Azure
+2019-09-01,GEORE1,0,Azure
+2019-02-01,DSW,115,Swisscom
+2019-01-01,INSIGHTSRE,1951,Swisscom
+2019-02-01,TMA,6,Swisscom
+2019-01-01,DSW,33,Swisscom
+2019-04-01,SISLAB,18492,Group Technology Management
+2019-04-01,PYTHIA,710,Group Technology Management
+2019-05-01,PYTHIA,170,Group Technology Management
+2019-06-01,DSW,9241,Group Technology Management
+2018-11-01,INSIGHTSRE,23536,Utilization
+2018-03-01,DOCSEARCH,0,Utilization
+2019-08-01,GEORE1,290,Azure
+2019-01-01,GEORE1,24,Azure
+2019-05-01,SISLAB,0,Azure
+2019-07-01,SISLAB,15,Swisscom
+2019-08-01,TMA,48,Swisscom
+2019-05-01,SISLAB,6,Swisscom
+2017-12-01,DSW,26112,Utilization
+2018-06-01,DSW,7241,Utilization
+2018-06-01,DOCSEARCH,817,Utilization
+2019-07-01,DNA,1671,Utilization
+2017-06-01,DSW,1671,Utilization
+2018-06-01,PYTHIA,489,Utilization
+2019-08-01,OCR,944,Group Technology Management
+2019-05-01,TMA,170,Group Technology Management
+2019-06-01,DNA,170,Group Technology Management
+2019-06-01,SISLAB,170,Group Technology Management
+2019-02-01,PYTHIA,170,Group Technology Management
+2019-09-01,GEORE1,170,Group Technology Management
+2019-03-01,VISREPBOXI,0,Group Technology Management
+2019-03-01,PYTHIA,1113,Group Technology Management
+2019-02-01,INSIGHTSRE,45,Group Technology Management
+2019-03-01,GEORE1,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-01-01,OCR,709,Swisscom
+2019-01-01,SISLAB,475,Swisscom
+2019-02-01,SAMS,17,Swisscom
+2019-07-01,LHTI,55,Group Technology Management
+2019-01-01,SAMS,170,Group Technology Management
+2019-02-01,OCR,841,Group Technology Management
+2019-08-01,DSW,8354,Group Technology Management
+2019-03-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-07-01,SISLAB,58,Azure
+2019-07-01,TMA,4,Azure
+2019-09-01,PYTHIA,0,Azure
+2017-01-01,DOCSEARCH,21255,Utilization
+2018-01-01,DOCSEARCH,19322,Utilization
+2019-01-01,TMA,158,Swisscom
+2019-03-01,SISLAB,5308,Swisscom
+2019-07-01,DSC,2724,Swisscom
+2019-03-01,TMA,10576,Swisscom
+2019-02-01,BCHART,49,Swisscom
+2019-06-01,DSW,1220,Swisscom
+2019-03-01,PYTHIA,853,Swisscom
+2019-03-01,TMA,149,Swisscom
+2019-07-01,SISLAB,5813,Swisscom
+2019-09-01,DATAROBOT,18,Swisscom
+2019-05-01,DATAROBOT,470,Swisscom
+2019-08-01,SISLAB,6,Swisscom
+2019-05-01,DSW,1857,Swisscom
+2019-03-01,SISLAB,0,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-02-01,GEORE1,0,Azure
+2017-03-01,DNA,0,Utilization
+2019-03-01,DSW,2933,Utilization
+2018-03-01,INSIGHTSRE,21725,Utilization
+2018-05-01,TMA,2452,Utilization
+2018-03-01,INSIGHTSRE,5012,Utilization
+2019-08-01,TMA,1411,Group Technology Management
+2019-09-01,INSIGHTSRE,1125,Group Technology Management
+2019-02-01,OCR,170,Group Technology Management
+2019-03-01,DSW,170,Group Technology Management
+2019-01-01,SAMS,170,Group Technology Management
+2019-03-01,SISLAB,27,Group Technology Management
+2019-01-01,SISLAB,4129,Group Technology Management
+2018-09-01,PYTHIA,9908,Utilization
+2017-10-01,DNA,13468,Utilization
+2018-07-01,PYTHIA,8860,Utilization
+2017-10-01,DSW,12530,Utilization
+2017-06-01,DOCSEARCH,2717,Utilization
+2018-04-01,DOCSEARCH,817,Utilization
+2018-10-01,DOCSEARCH,0,Utilization
+2019-01-01,GEORE1,7,Azure
+2019-04-01,SISLAB,0,Azure
+2019-04-01,SISLAB,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-06-01,SISLAB,56,Azure
+2019-01-01,SISLAB,145,Azure
+2019-05-01,WATSONEXP,170,Group Technology Management
+2019-07-01,GEORE1,170,Group Technology Management
+2019-08-01,SFILE,24,Group Technology Management
+2019-08-01,SAMS,21,Swisscom
+2019-07-01,DATAROBOT,593,Swisscom
+2019-06-01,INSIGHTSRE,24,Swisscom
+2019-08-01,SAMS,16,Swisscom
+2019-09-01,INSIGHTSRE,36,Swisscom
+2019-06-01,DSC,57,Swisscom
+2019-05-01,TMA,0,Swisscom
+2019-04-01,DNA,170,Group Technology Management
+2019-03-01,DSW,170,Group Technology Management
+2019-08-01,GEORE1,21,Azure
+2019-03-01,SISLAB,1,Azure
+2019-09-01,SISLAB,0,Azure
+2019-03-01,TMA,0,Azure
+2019-09-01,PYTHIA,0,Azure
+2019-08-01,SISLAB,14,Azure
+2019-05-01,SISLAB,0,Azure
+2019-02-01,SISLAB,21,Azure
+2018-12-01,TMA,6692,Utilization
+2017-04-01,OCR,6119,Utilization
+2018-09-01,DOCSEARCH,817,Utilization
+2019-04-01,DOCPROXY,170,Group Technology Management
+2019-06-01,SISLAB,170,Group Technology Management
+2019-07-01,OCR,170,Group Technology Management
+2018-06-01,TMA,2639,Utilization
+2019-02-01,SAMS,21,Swisscom
+2019-09-01,DSW,674,Swisscom
+2019-07-01,TMA,52,Swisscom
+2019-01-01,SISLAB,25,Azure
+2019-04-01,SISLAB,1,Azure
+2019-01-01,GEORE1,0,Azure
+2019-01-01,SISLAB,6,Azure
+2019-08-01,SISLAB,0,Azure
+2019-01-01,SISLAB,4,Azure
+2019-01-01,SISLAB,0,Azure
+2019-02-01,GEORE1,10,Azure
+2019-05-01,SISLAB,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-05-01,DOCPROXY,994,Swisscom
+2019-02-01,DSW,2196,Swisscom
+2019-09-01,SISLAB,17,Swisscom
+2019-03-01,SISLAB,5,Swisscom
+2019-05-01,PYTHIA,35,Swisscom
+2019-06-01,TMA,20,Swisscom
+2019-06-01,TMA,247,Swisscom
+2019-06-01,SISLAB,7214,Group Technology Management
+2019-01-01,SFILE,710,Group Technology Management
+2019-02-01,SAMS,170,Group Technology Management
+2019-07-01,DOCSEARCH,550,Group Technology Management
+2017-09-01,OCR,9781,Utilization
+2018-06-01,DSW,2933,Utilization
+2018-10-01,INSIGHTSRE,2933,Utilization
+2018-07-01,DNA,3341,Utilization
+2019-01-01,TMA,160,Group Technology Management
+2019-08-01,DOCSEARCH,170,Group Technology Management
+2019-05-01,DOCSEARCH,170,Group Technology Management
+2019-07-01,DOCSEARCH,170,Group Technology Management
+2019-03-01,DSC,1,Group Technology Management
+2019-04-01,DSC,1,Group Technology Management
+2019-03-01,INSIGHTSRE,45,Group Technology Management
+2019-08-01,SISLAB,0,Azure
+2019-04-01,SISLAB,21,Azure
+2019-01-01,GEORE1,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-05-01,SISLAB,84,Azure
+2017-03-01,SAMS,204,Utilization
+2018-04-01,SAMS,644,Utilization
+2019-09-01,DSW,26,Swisscom
+2019-07-01,DATAROBOT,551,Swisscom
+2019-09-01,DOCSEARCH,19322,Utilization
+2018-06-01,PYTHIA,2933,Utilization
+2019-03-01,INSIGHTSRE,3260,Utilization
+2018-11-01,TMA,2639,Utilization
+2017-01-01,SAMS,204,Utilization
+2019-07-01,DATAROBOT,170,Group Technology Management
+2019-04-01,SAMS,77,Group Technology Management
+2019-07-01,SISLAB,0,Azure
+2019-03-01,SISLAB,18,Azure
+2019-04-01,PYTHIA,19,Azure
+2019-09-01,SISLAB,12,Azure
+2019-09-01,PYTHIA,0,Azure
+2019-03-01,SISLAB,33,Azure
+2019-02-01,PYTHIA,25,Swisscom
+2019-02-01,TMA,44,Swisscom
+2019-05-01,DATAROBOT,8,Swisscom
+2017-04-01,DNA,23831,Utilization
+2017-07-01,DOCSEARCH,14814,Utilization
+2019-03-01,OCR,6521,Utilization
+2018-06-01,PYTHIA,5012,Utilization
+2017-06-01,TMA,2639,Utilization
+2019-05-01,SISLAB,7038,Group Technology Management
+2019-08-01,SISLAB,170,Group Technology Management
+2019-08-01,TMA,170,Group Technology Management
+2019-02-01,DSW,170,Group Technology Management
+2019-03-01,GEORE1,4,Azure
+2019-05-01,SISLAB,0,Azure
+2019-04-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-09-01,TMA,0,Azure
+2019-06-01,SAMS,63,Swisscom
+2019-05-01,PYTHIA,293,Swisscom
+2019-01-01,PYTHIA,203,Swisscom
+2019-09-01,PYTHIA,405,Swisscom
+2019-09-01,TMA,17,Swisscom
+2019-01-01,SISLAB,6,Swisscom
+2019-05-01,DSW,321,Swisscom
+2019-04-01,SISLAB,253,Swisscom
+2019-09-01,DSW,407,Swisscom
+2019-04-01,DSC,2119,Swisscom
+2019-09-01,SISLAB,4686,Swisscom
+2019-02-01,DSC,22,Swisscom
+2019-08-01,DATAROBOT,112,Swisscom
+2018-04-01,INSIGHTSRE,1955,Utilization
+2019-01-01,GEORE1,4,Azure
+2019-01-01,GEORE1,0,Azure
+2019-06-01,SISLAB,1,Azure
+2019-07-01,SISLAB,2,Azure
+2019-01-01,SISLAB,0,Azure
+2019-08-01,SISLAB,15,Azure
+2019-08-01,TMA,586,Group Technology Management
+2019-07-01,WATSONEXP,170,Group Technology Management
+2019-05-01,INSIGHTSRE,13213,Group Technology Management
+2019-03-01,DSW,3871,Group Technology Management
+2019-08-01,DOCSEARCH,170,Group Technology Management
+2019-05-01,DOCSEARCH,170,Group Technology Management
+2017-11-01,OCR,13848,Utilization
+2017-07-01,DNA,835,Utilization
+2019-09-01,SISLAB,71,Swisscom
+2019-04-01,DSW,24,Swisscom
+2019-08-01,SISLAB,5339,Swisscom
+2019-03-01,INSIGHTSRE,25,Swisscom
+2019-09-01,SISLAB,4,Azure
+2019-05-01,GEORE1,118,Azure
+2019-02-01,SISLAB,28,Azure
+2019-01-01,SISLAB,0,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-08-01,SISLAB,2,Azure
+2019-05-01,TMA,4,Azure
+2019-05-01,DSC,1642,Group Technology Management
+2019-06-01,TMA,1871,Group Technology Management
+2019-07-01,INSIGHTSRE,13540,Group Technology Management
+2019-06-01,DSW,835,Utilization
+2019-01-01,SISLAB,0,Azure
+2019-02-01,TMA,4,Azure
+2019-01-01,GEORE1,6,Azure
+2019-08-01,SISLAB,23,Azure
+2019-08-01,GEORE1,0,Azure
+2019-05-01,SISLAB,2,Azure
+2019-04-01,GEORE1,0,Azure
+2019-01-01,SISLAB,2176,Swisscom
+2019-07-01,DSW,1600,Swisscom
+2019-09-01,DSW,13,Swisscom
+2019-09-01,INSIGHTSRE,107,Swisscom
+2019-03-01,TMA,20,Swisscom
+2019-05-01,GEORE1,0,Azure
+2019-04-01,GEORE1,3,Azure
+2019-03-01,SISLAB,0,Azure
+2019-08-01,SISLAB,0,Azure
+2019-04-01,PYTHIA,167,Azure
+2019-07-01,SISLAB,0,Azure
+2018-12-01,PYTHIA,16547,Utilization
+2019-07-01,INSIGHTSRE,170,Group Technology Management
+2019-04-01,SISLAB,170,Group Technology Management
+2019-06-01,TMA,43,Group Technology Management
+2019-01-01,DSW,170,Group Technology Management
+2019-09-01,DSW,170,Group Technology Management
+2019-04-01,SISLAB,170,Group Technology Management
+2019-01-01,SISLAB,170,Group Technology Management
+2019-03-01,OCR,277,Group Technology Management
+2019-07-01,PYTHIA,293,Swisscom
+2019-03-01,SAMS,68,Swisscom
+2019-05-01,PYTHIA,149,Swisscom
+2018-02-01,DSW,9908,Utilization
+2019-01-01,INSIGHTSRE,7608,Utilization
+2018-04-01,DNA,3341,Utilization
+2018-03-01,TMA,2639,Utilization
+2019-01-01,SISLAB,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-05-01,GEORE1,1,Azure
+2019-05-01,SISLAB,0,Azure
+2019-06-01,SISLAB,1,Azure
+2019-07-01,GEORE1,309,Azure
+2019-05-01,SAMS,77,Group Technology Management
+2019-09-01,DNA,458,Swisscom
+2019-01-01,TMA,5,Swisscom
+2019-05-01,SAMS,16,Swisscom
+2019-01-01,DATAROBOT,1107,Swisscom
+2019-01-01,TMA,25,Swisscom
+2019-07-01,DNA,170,Group Technology Management
+2019-05-01,SFILE,710,Group Technology Management
+2019-06-01,LHTI,55,Group Technology Management
+2019-08-01,OCR,170,Group Technology Management
+2019-03-01,TMA,28,Group Technology Management
+2019-05-01,INSIGHTSRE,170,Group Technology Management
+2019-02-01,SFILE,170,Group Technology Management
+2019-09-01,SFILE,24,Group Technology Management
+2019-01-01,SISLAB,27,Group Technology Management
+2017-12-01,TMA,3958,Utilization
+2018-05-01,TMA,2639,Utilization
+2017-12-01,DNA,1671,Utilization
+2018-07-01,INSIGHTSRE,409,Utilization
+2019-03-01,GEORE1,0,Azure
+2019-02-01,GEORE1,8,Azure
+2019-06-01,GEORE1,0,Azure
+2019-04-01,SISLAB,377,Azure
+2019-01-01,INSIGHTSRE,4061,Swisscom
+2019-02-01,SISLAB,8,Swisscom
+2019-02-01,PYTHIA,3,Swisscom
+2019-05-01,TMA,411,Swisscom
+2019-02-01,DSW,1,Swisscom
+2019-07-01,DSW,2897,Swisscom
+2019-06-01,DSW,24,Swisscom
+2019-02-01,TMA,160,Group Technology Management
+2019-08-01,DOCSEARCH,1633,Group Technology Management
+2019-05-01,DSW,170,Group Technology Management
+2019-05-01,SISLAB,0,Azure
+2019-01-01,TMA,0,Azure
+2019-04-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-04-01,GEORE1,3,Azure
+2019-05-01,SISLAB,39,Azure
+2017-02-01,TMA,2861,Utilization
+2019-01-01,PYTHIA,2477,Utilization
+2019-02-01,SAMS,41,Utilization
+2019-05-01,SAMS,41,Utilization
+2019-09-01,SISLAB,7917,Group Technology Management
+2019-02-01,INSIGHTSRE,170,Group Technology Management
+2019-05-01,INSIGHTSRE,170,Group Technology Management
+2019-05-01,WATSONEXP,170,Group Technology Management
+2019-03-01,TMA,170,Group Technology Management
+2019-03-01,PYTHIA,170,Group Technology Management
+2019-04-01,SISLAB,27,Group Technology Management
+2019-08-01,GEORE1,20,Azure
+2019-08-01,SISLAB,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-03-01,GEORE1,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-03-01,GEORE1,17,Azure
+2019-04-01,GEORE1,0,Azure
+2019-08-01,SISLAB,0,Azure
+2019-06-01,DSW,19054,Utilization
+2017-06-01,TMA,2861,Utilization
+2019-02-01,OCR,409,Utilization
+2019-09-01,OCR,409,Utilization
+2019-08-01,TMA,71,Swisscom
+2019-09-01,INSIGHTSRE,210,Swisscom
+2019-07-01,PYTHIA,149,Swisscom
+2019-05-01,DSC,2531,Swisscom
+2019-05-01,INSIGHTSRE,28,Swisscom
+2019-07-01,DATAROBOT,411,Group Technology Management
+2019-02-01,TMA,293,Group Technology Management
+2019-02-01,LHTI,170,Group Technology Management
+2019-02-01,OCR,550,Group Technology Management
+2019-01-01,GEORE1,27,Azure
+2019-02-01,GEORE1,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-09-01,TMA,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-04-01,DSW,15624,Utilization
+2018-08-01,OCR,7608,Utilization
+2018-10-01,DNA,8353,Utilization
+2017-04-01,TMA,5277,Utilization
+2018-04-01,DSW,5512,Utilization
+2017-08-01,DSW,0,Utilization
+2019-09-01,DOCSEARCH,572,Utilization
+2019-04-01,DSW,240,Utilization
+2019-01-01,DSW,186,Swisscom
+2019-06-01,DSC,3882,Swisscom
+2019-02-01,SISLAB,4944,Swisscom
+2019-05-01,GEORE1,0,Azure
+2019-02-01,GEORE1,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-03-01,SISLAB,4,Azure
+2019-02-01,DOCSEARCH,170,Group Technology Management
+2019-04-01,DOCSEARCH,630,Group Technology Management
+2019-07-01,PYTHIA,170,Group Technology Management
+2019-09-01,SISLAB,41,Group Digital & Information Services
+2019-07-01,DOCSEARCH,19322,Utilization
+2018-03-01,DSW,15871,Utilization
+2019-08-01,OCR,5434,Utilization
+2017-12-01,SAMS,644,Utilization
+2019-06-01,DATAROBOT,574,Swisscom
+2019-02-01,PYTHIA,779,Swisscom
+2019-04-01,DATAROBOT,534,Swisscom
+2019-03-01,INSIGHTSRE,2194,Swisscom
+2017-02-01,DNA,22543,Utilization
+2017-05-01,DNA,13687,Utilization
+2018-12-01,INSIGHTSRE,5240,Utilization
+2019-07-01,DSW,0,Utilization
+2018-01-01,DOCSEARCH,0,Utilization
+2019-06-01,PYTHIA,1671,Utilization
+2019-05-01,SAMS,644,Utilization
+2019-07-01,GEORE1,22,Azure
+2019-02-01,SISLAB,0,Azure
+2019-06-01,GEORE1,1,Azure
+2019-03-01,SISLAB,1,Azure
+2019-05-01,GEORE1,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-07-01,DSW,170,Group Technology Management
+2019-04-01,DATAROBOT,631,Swisscom
+2019-03-01,TMA,23,Swisscom
+2019-03-01,SISLAB,1,Azure
+2019-01-01,SISLAB,0,Azure
+2019-08-01,SISLAB,15,Azure
+2019-06-01,GEORE1,0,Azure
+2019-05-01,SISLAB,389,Azure
+2019-01-01,SISLAB,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-03-01,GEORE1,10,Azure
+2018-10-01,OCR,1226,Utilization
+2017-05-01,OCR,409,Utilization
+2019-07-01,DATAROBOT,8,Swisscom
+2019-09-01,SAMS,6,Swisscom
+2019-09-01,SISLAB,11,Swisscom
+2019-09-01,TMA,103,Swisscom
+2019-09-01,PYTHIA,170,Group Technology Management
+2019-08-01,SISLAB,14,Swisscom
+2019-05-01,DATAROBOT,551,Swisscom
+2019-04-01,PYTHIA,4,Swisscom
+2019-05-01,DSW,377,Swisscom
+2019-01-01,SISLAB,7,Swisscom
+2019-02-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-01-01,DOCSEARCH,12,Group Technology Management
+2019-01-01,TMA,170,Group Technology Management
+2019-05-01,SISLAB,170,Group Technology Management
+2019-05-01,TMA,170,Group Technology Management
+2019-04-01,INSIGHTSRE,8831,Group Technology Management
+2018-10-01,DSW,26009,Utilization
+2017-07-01,DNA,27761,Utilization
+2019-03-01,DSW,5049,Utilization
+2018-10-01,TMA,5277,Utilization
+2019-03-01,DATAROBOT,47,Swisscom
+2019-09-01,INSIGHTSRE,4144,Swisscom
+2019-05-01,SISLAB,16,Swisscom
+2019-01-01,DATAROBOT,957,Swisscom
+2019-08-01,SISLAB,5474,Swisscom
+2019-07-01,SISLAB,6,Swisscom
+2019-04-01,TMA,411,Group Technology Management
+2019-05-01,DOCSEARCH,170,Group Technology Management
+2019-02-01,PYTHIA,103,Group Technology Management
+2019-06-01,TMA,170,Group Technology Management
+2019-09-01,OCR,170,Group Technology Management
+2019-01-01,DSC,1,Group Technology Management
+2017-12-01,DOCSEARCH,817,Utilization
+2019-06-01,DOCSEARCH,572,Utilization
+2019-09-01,TMA,1087,Utilization
+2019-03-01,GEORE1,14,Azure
+2019-02-01,SISLAB,317,Azure
+2019-03-01,SISLAB,0,Azure
+2019-01-01,SISLAB,1,Azure
+2019-04-01,SISLAB,0,Azure
+2019-03-01,DATAROBOT,170,Group Technology Management
+2019-03-01,SISLAB,258,Group Digital & Information Services
+2019-02-01,DSW,2,Swisscom
+2019-08-01,SISLAB,2153,Swisscom
+2019-07-01,PYTHIA,35,Swisscom
+2019-04-01,SISLAB,6,Swisscom
+2019-06-01,INSIGHTSRE,46,Swisscom
+2019-01-01,SISLAB,0,Azure
+2019-03-01,GEORE1,66,Azure
+2019-08-01,SISLAB,58,Azure
+2019-09-01,TMA,0,Azure
+2018-06-01,TMA,6597,Utilization
+2017-08-01,DNA,835,Utilization
+2019-03-01,SISLAB,0,Azure
+2019-07-01,GEORE1,189,Azure
+2019-02-01,SISLAB,0,Azure
+2019-04-01,SISLAB,0,Azure
+2019-06-01,SISLAB,21,Azure
+2019-09-01,SISLAB,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-03-01,OCR,187,Group Technology Management
+2019-06-01,PYTHIA,170,Group Technology Management
+2019-03-01,OCR,170,Group Technology Management
+2019-04-01,DOCSEARCH,170,Group Technology Management
+2019-04-01,DOCPROXY,2122,Group Technology Management
+2017-05-01,DNA,29273,Utilization
+2018-08-01,DOCSEARCH,817,Utilization
+2018-12-01,DSW,1671,Utilization
+2019-04-01,LHTI,282,Swisscom
+2019-09-01,PYTHIA,322,Swisscom
+2019-06-01,TMA,77,Swisscom
+2019-09-01,INSIGHTSRE,6275,Group Technology Management
+2019-01-01,SISLAB,5220,Group Technology Management
+2019-07-01,PYTHIA,170,Group Technology Management
+2019-08-01,SISLAB,710,Group Technology Management
+2019-01-01,TMA,170,Group Technology Management
+2019-01-01,TMA,170,Group Technology Management
+2019-07-01,SISLAB,170,Group Technology Management
+2019-08-01,SISLAB,170,Group Technology Management
+2019-09-01,WATSONEXP,170,Group Technology Management
+2019-01-01,DOCPROXY,187,Group Technology Management
+2018-04-01,INSIGHTSRE,32588,Utilization
+2018-12-01,PYTHIA,2933,Utilization
+2018-09-01,OCR,1226,Utilization
+2018-01-01,OCR,1022,Utilization
+2017-06-01,DOCSEARCH,817,Utilization
+2019-09-01,GEORE1,0,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-01-01,DATAROBOT,1438,Swisscom
+2019-07-01,SISLAB,16,Swisscom
+2019-02-01,SISLAB,3,Swisscom
+2019-07-01,INSIGHTSRE,49,Swisscom
+2019-05-01,DSW,875,Swisscom
+2019-09-01,INSIGHTSRE,903,Swisscom
+2018-11-01,INSIGHTSRE,10024,Utilization
+2019-08-01,PYTHIA,4764,Utilization
+2019-05-01,DOCSEARCH,572,Utilization
+2017-01-01,DSW,489,Utilization
+2018-10-01,PYTHIA,489,Utilization
+2019-05-01,SISLAB,0,Azure
+2019-06-01,SISLAB,137,Azure
+2019-06-01,SISLAB,0,Azure
+2019-02-01,INSIGHTSRE,4028,Swisscom
+2019-03-01,DATAROBOT,7,Swisscom
+2019-05-01,DSW,1301,Swisscom
+2019-06-01,SAMS,14,Swisscom
+2019-06-01,TMA,20,Swisscom
+2019-02-01,INSIGHTSRE,2346,Group Technology Management
+2019-04-01,INSIGHTSRE,170,Group Technology Management
+2019-05-01,SAMS,170,Group Technology Management
+2019-01-01,LHTI,170,Group Technology Management
+2019-07-01,PYTHIA,188,Group Technology Management
+2019-03-01,DOCPROXY,187,Group Technology Management
+2019-04-01,PYTHIA,13,Group Technology Management
+2018-08-01,DSW,8860,Utilization
+2017-08-01,DSW,2444,Utilization
+2019-01-01,DSW,0,Utilization
+2018-01-01,DOCSEARCH,1022,Utilization
+2019-08-01,INSIGHTSRE,733,Utilization
+2019-08-01,LHTI,170,Group Technology Management
+2019-06-01,SAMS,75,Group Technology Management
+2019-08-01,DATAROBOT,1,Swisscom
+2019-07-01,SISLAB,5648,Swisscom
+2019-04-01,DSW,1789,Swisscom
+2019-01-01,SISLAB,0,Azure
+2019-04-01,SISLAB,28,Azure
+2019-02-01,SISLAB,0,Azure
+2019-09-01,TMA,0,Azure
+2019-09-01,TMA,0,Azure
+2019-04-01,DSW,3929,Group Technology Management
+2019-05-01,INSIGHTSRE,4926,Group Technology Management
+2019-09-01,WATSONEXP,170,Group Technology Management
+2019-03-01,DOCSEARCH,170,Group Technology Management
+2019-02-01,OCR,170,Group Technology Management
+2019-06-01,DNA,1231,Swisscom
+2019-05-01,SAMS,65,Swisscom
+2019-05-01,DATAROBOT,1625,Swisscom
+2019-09-01,SISLAB,1123,Swisscom
+2019-07-01,DATAROBOT,470,Swisscom
+2019-03-01,GEORE1,14,Azure
+2019-07-01,SISLAB,0,Azure
+2019-07-01,GEORE1,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-08-01,GEORE1,64,Azure
+2019-03-01,SISLAB,2,Azure
+2019-09-01,SISLAB,0,Azure
+2019-07-01,PYTHIA,0,Azure
+2019-06-01,SISLAB,14,Azure
+2019-09-01,GEORE1,0,Azure
+2019-08-01,SISLAB,985,Azure
+2018-12-01,DOCSEARCH,6441,Utilization
+2019-09-01,INSIGHTSRE,733,Utilization
+2018-03-01,INSIGHTSRE,409,Utilization
+2019-07-01,SISLAB,229,Swisscom
+2019-04-01,DOCSEARCH,170,Group Technology Management
+2019-08-01,TMA,170,Group Technology Management
+2019-01-01,DNA,265,Group Technology Management
+2019-09-01,INSIGHTSRE,4434,Group Technology Management
+2019-08-01,GEORE1,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-03-01,PYTHIA,0,Azure
+2019-01-01,SISLAB,0,Azure
+2017-10-01,TMA,34297,Utilization
+2019-02-01,OCR,5434,Utilization
+2019-02-01,DSW,0,Utilization
+2018-06-01,DOCSEARCH,0,Utilization
+2017-04-01,SAMS,204,Utilization
+2019-02-01,DSW,11,Swisscom
+2019-02-01,TMA,7,Swisscom
+2019-04-01,DSW,60,Swisscom
+2019-07-01,TMA,1,Swisscom
+2019-02-01,INSIGHTSRE,0,Swisscom
+2019-06-01,TMA,1333,Group Technology Management
+2019-01-01,INSIGHTSRE,600,Group Technology Management
+2019-08-01,SAMS,170,Group Technology Management
+2019-05-01,DOCSEARCH,170,Group Technology Management
+2019-03-01,PYTHIA,170,Group Technology Management
+2019-09-01,SISLAB,18845,Group Technology Management
+2019-02-01,SFILE,710,Group Technology Management
+2019-03-01,SFILE,710,Group Technology Management
+2019-07-01,SAMS,170,Group Technology Management
+2019-02-01,WATSONEXP,170,Group Technology Management
+2019-05-01,SISLAB,170,Group Technology Management
+2019-06-01,OCR,550,Group Technology Management
+2019-05-01,SAMS,550,Group Technology Management
+2019-06-01,INSIGHTSRE,45,Group Technology Management
+2019-08-01,DATAROBOT,8,Swisscom
+2019-07-01,SISLAB,2571,Swisscom
+2019-06-01,DSC,3,Swisscom
+2019-04-01,PYTHIA,2,Swisscom
+2019-07-01,SAMS,1,Swisscom
+2019-03-01,DSW,32,Swisscom
+2019-03-01,PYTHIA,40,Swisscom
+2019-01-01,DSW,71,Swisscom
+2019-08-01,DATAROBOT,40,Swisscom
+2019-09-01,DSW,2933,Utilization
+2018-05-01,TMA,6597,Utilization
+2018-12-01,TMA,2639,Utilization
+2019-03-01,SISLAB,0,Azure
+2019-02-01,GEORE1,0,Azure
+2019-01-01,TMA,0,Azure
+2019-04-01,INSIGHTSRE,4848,Swisscom
+2019-05-01,SISLAB,293,Swisscom
+2019-08-01,DATAROBOT,141,Swisscom
+2019-02-01,DSC,2286,Swisscom
+2018-11-01,DSW,16101,Utilization
+2019-02-01,TMA,4258,Utilization
+2018-08-01,OCR,1226,Utilization
+2019-06-01,WATSONEXP,170,Group Technology Management
+2019-06-01,WATSONEXP,170,Group Technology Management
+2019-06-01,TMA,170,Group Technology Management
+2019-07-01,DOCSEARCH,170,Group Technology Management
+2019-06-01,SAMS,170,Group Technology Management
+2019-05-01,DOCSEARCH,550,Group Technology Management
+2019-09-01,OCR,944,Group Technology Management
+2019-09-01,PYTHIA,13,Group Technology Management
+2019-07-01,DATAROBOT,1622,Group Technology Management
+2019-09-01,GEORE1,1,Azure
+2019-01-01,GEORE1,3,Azure
+2019-05-01,GEORE1,78,Azure
+2019-01-01,SISLAB,1,Azure
+2019-04-01,GEORE1,1,Azure
+2019-09-01,SISLAB,1,Azure
+2019-03-01,PYTHIA,145,Azure
+2019-01-01,GEORE1,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-04-01,PYTHIA,0,Azure
+2019-02-01,SISLAB,1,Azure
+2019-09-01,SISLAB,0,Azure
+2019-05-01,SISLAB,23,Azure
+2019-09-01,SISLAB,4,Azure
+2019-08-01,GEORE1,3,Azure
+2019-03-01,SISLAB,0,Azure
+2018-08-01,DSW,4399,Utilization
+2018-01-01,DSW,3115,Utilization
+2018-08-01,DNA,1671,Utilization
+2019-03-01,DSW,835,Utilization
+2019-02-01,PYTHIA,1229,Group Technology Management
+2019-03-01,SISLAB,9156,Group Technology Management
+2019-08-01,DSC,4377,Group Technology Management
+2019-09-01,SISLAB,1175,Swisscom
+2019-08-01,DSW,23,Swisscom
+2019-06-01,DATAROBOT,631,Swisscom
+2019-04-01,DATAROBOT,455,Swisscom
+2019-02-01,GEORE1,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-05-01,SISLAB,510,Azure
+2019-09-01,OCR,187,Group Technology Management
+2019-04-01,SFILE,710,Group Technology Management
+2019-02-01,DNA,170,Group Technology Management
+2019-05-01,TMA,170,Group Technology Management
+2019-06-01,WATSONEXP,170,Group Technology Management
+2018-05-01,OCR,22171,Utilization
+2018-03-01,INSIGHTSRE,5811,Utilization
+2018-07-01,PYTHIA,1955,Utilization
+2018-05-01,DNA,3341,Utilization
+2019-06-01,INSIGHTSRE,690,Swisscom
+2019-04-01,TMA,62,Swisscom
+2019-02-01,DSC,1,Swisscom
+2019-09-01,DSC,82,Swisscom
+2019-01-01,TMA,1,Swisscom
+2019-07-01,SAMS,78,Swisscom
+2019-01-01,TMA,576,Swisscom
+2019-01-01,SAMS,73,Swisscom
+2019-02-01,PYTHIA,529,Swisscom
+2019-09-01,DSC,6,Swisscom
+2019-03-01,DSW,117,Swisscom
+2019-03-01,DSW,1323,Swisscom
+2018-11-01,OCR,1226,Utilization
+2019-09-01,PYTHIA,1349,Group Technology Management
+2019-03-01,TMA,160,Group Technology Management
+2019-04-01,DNA,170,Group Technology Management
+2019-07-01,VISREPBOXI,2146,Group Technology Management
+2019-03-01,SAMS,79,Group Technology Management
+2019-07-01,SISLAB,12,Azure
+2019-09-01,TMA,0,Azure
+2019-08-01,SISLAB,4,Azure
+2019-03-01,DNA,170,Group Technology Management
+2019-01-01,PYTHIA,170,Group Technology Management
+2019-09-01,DOCPROXY,187,Group Technology Management
+2019-01-01,DOCSEARCH,6791,Group Technology Management
+2017-04-01,TMA,36391,Utilization
+2018-01-01,DSW,15871,Utilization
+2019-02-01,DNA,1671,Utilization
+2019-04-01,DSW,835,Utilization
+2019-03-01,GEORE1,0,Azure
+2019-04-01,SISLAB,0,Azure
+2019-03-01,GEORE1,42,Azure
+2019-02-01,SISLAB,34,Azure
+2019-09-01,TMA,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-05-01,PYTHIA,0,Azure
+2019-08-01,GEORE1,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-09-01,PYTHIA,48,Swisscom
+2019-07-01,DSW,321,Swisscom
+2019-08-01,TMA,9596,Swisscom
+2019-07-01,TMA,14,Swisscom
+2019-06-01,DATAROBOT,447,Swisscom
+2019-02-01,TMA,51,Swisscom
+2017-02-01,DNA,8353,Utilization
+2017-05-01,DNA,6682,Utilization
+2019-02-01,GEORE1,37,Azure
+2019-06-01,SISLAB,0,Azure
+2019-05-01,SISLAB,6,Azure
+2019-01-01,GEORE1,2,Azure
+2019-09-01,PYTHIA,33,Azure
+2019-01-01,SISLAB,346,Azure
+2019-06-01,PYTHIA,1349,Group Technology Management
+2019-03-01,SISLAB,5982,Group Technology Management
+2019-07-01,TMA,1871,Group Technology Management
+2019-03-01,TMA,170,Group Technology Management
+2019-09-01,SAMS,170,Group Technology Management
+2017-06-01,TMA,38645,Utilization
+2019-07-01,INSIGHTSRE,20959,Utilization
+2017-05-01,DOCSEARCH,2717,Utilization
+2018-09-01,DOCSEARCH,0,Utilization
+2019-05-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-08-01,SISLAB,5,Azure
+2019-05-01,SISLAB,2,Azure
+2019-02-01,OCR,170,Group Technology Management
+2019-02-01,INSIGHTSRE,170,Group Technology Management
+2019-05-01,SISLAB,27,Group Technology Management
+2019-07-01,TMA,59,Group Technology Management
+2019-09-01,DOCSEARCH,1633,Group Technology Management
+2019-02-01,DSW,2,Swisscom
+2019-02-01,DATAROBOT,484,Swisscom
+2019-03-01,DSC,3960,Swisscom
+2019-03-01,SISLAB,5459,Swisscom
+2019-08-01,DATAROBOT,498,Swisscom
+2019-06-01,DATAROBOT,534,Swisscom
+2019-06-01,SISLAB,6,Swisscom
+2019-02-01,GEORE1,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-02-01,SISLAB,1,Azure
+2019-04-01,SISLAB,1,Azure
+2019-08-01,SISLAB,0,Azure
+2019-04-01,DSW,1048,Swisscom
+2017-06-01,DNA,10024,Utilization
+2019-06-01,DSW,2933,Utilization
+2017-07-01,DSW,2444,Utilization
+2019-06-01,TMA,2717,Utilization
+2018-08-01,DSW,1671,Utilization
+2018-05-01,SAMS,644,Utilization
+2019-05-01,SFILE,170,Group Technology Management
+2019-08-01,PYTHIA,188,Group Technology Management
+2019-09-01,DSW,170,Group Technology Management
+2019-03-01,INSIGHTSRE,9039,Group Technology Management
+2019-01-01,OCR,550,Group Technology Management
+2019-09-01,SAMS,550,Group Technology Management
+2019-01-01,DOCPROXY,170,Group Technology Management
+2019-07-01,DOCSEARCH,170,Group Technology Management
+2019-05-01,GEORE1,66,Azure
+2019-04-01,GEORE1,1,Azure
+2019-03-01,SISLAB,0,Azure
+2019-03-01,GEORE1,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-03-01,DATAROBOT,10,Swisscom
+2019-07-01,DSC,3599,Swisscom
+2019-06-01,INSIGHTSRE,31,Swisscom
+2019-07-01,DATAROBOT,652,Swisscom
+2019-03-01,INSIGHTSRE,234,Swisscom
+2019-01-01,SISLAB,22,Swisscom
+2019-02-01,OCR,662,Swisscom
+2019-01-01,DATAROBOT,337,Swisscom
+2019-03-01,PYTHIA,195,Swisscom
+2019-06-01,DSW,311,Swisscom
+2019-05-01,GEORE1,0,Azure
+2019-07-01,GEORE1,1,Azure
+2019-01-01,TMA,13,Azure
+2019-03-01,SISLAB,4,Azure
+2019-09-01,SISLAB,10,Azure
+2019-08-01,TMA,0,Azure
+2019-05-01,TMA,0,Azure
+2019-08-01,TMA,0,Azure
+2019-08-01,SISLAB,10065,Group Technology Management
+2019-08-01,TMA,32204,Utilization
+2018-07-01,DOCSEARCH,817,Utilization
+2019-03-01,PYTHIA,0,Azure
+2019-05-01,SISLAB,22,Azure
+2019-01-01,SISLAB,0,Azure
+2019-02-01,GEORE1,0,Azure
+2018-04-01,TMA,55069,Utilization
+2017-01-01,DNA,8353,Utilization
+2019-02-01,DOCSEARCH,615,Group Technology Management
+2019-09-01,DNA,170,Group Technology Management
+2019-02-01,OCR,170,Group Technology Management
+2019-05-01,PYTHIA,188,Group Technology Management
+2019-02-01,DOCPROXY,187,Group Technology Management
+2019-02-01,INSIGHTSRE,554,Swisscom
+2019-06-01,DATAROBOT,8,Swisscom
+2019-09-01,PYTHIA,21,Swisscom
+2019-03-01,SISLAB,6,Swisscom
+2019-05-01,OCR,1014,Swisscom
+2019-04-01,SISLAB,16,Swisscom
+2019-09-01,TMA,0,Swisscom
+2019-06-01,PYTHIA,193,Swisscom
+2019-03-01,TMA,255,Swisscom
+2019-08-01,SISLAB,0,Azure
+2019-04-01,SISLAB,94,Azure
+2019-01-01,OCR,170,Group Technology Management
+2019-05-01,TMA,170,Group Technology Management
+2019-09-01,DOCSEARCH,170,Group Technology Management
+2019-06-01,PYTHIA,170,Group Technology Management
+2019-07-01,DSW,170,Group Technology Management
+2019-07-01,SFILE,170,Group Technology Management
+2019-07-01,SISLAB,27,Group Technology Management
+2019-08-01,SAMS,72,Group Technology Management
+2018-03-01,INSIGHTSRE,36393,Utilization
+2018-11-01,DSW,9336,Utilization
+2017-08-01,TMA,2639,Utilization
+2019-03-01,DOCSEARCH,572,Utilization
+2019-01-01,DSW,244,Swisscom
+2019-06-01,DSW,3926,Swisscom
+2019-02-01,DSC,2235,Swisscom
+2019-05-01,DSC,2231,Swisscom
+2019-04-01,DSC,3404,Swisscom
+2019-02-01,DATAROBOT,51,Swisscom
+2019-01-01,SISLAB,522,Swisscom
+2018-07-01,INSIGHTSRE,42365,Utilization
+2018-12-01,PYTHIA,6097,Utilization
+2019-03-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-02-01,SISLAB,1,Azure
+2019-02-01,SISLAB,0,Azure
+2019-06-01,TMA,469,Group Technology Management
+2019-08-01,SISLAB,7800,Group Technology Management
+2019-04-01,DOCPROXY,1008,Swisscom
+2019-03-01,DATAROBOT,37,Swisscom
+2019-04-01,SAMS,1,Swisscom
+2019-05-01,DATAROBOT,44,Swisscom
+2019-08-01,INSIGHTSRE,2808,Swisscom
+2019-08-01,DSW,290,Swisscom
+2019-09-01,SISLAB,0,Azure
+2019-09-01,SISLAB,5,Azure
+2019-06-01,SISLAB,11,Azure
+2019-04-01,SISLAB,1,Azure
+2019-01-01,TMA,8151,Utilization
+2018-07-01,TMA,5277,Utilization
+2017-07-01,DOCSEARCH,817,Utilization
+2019-04-01,TMA,1871,Group Technology Management
+2018-02-01,DSW,20769,Utilization
+2019-01-01,DOCSEARCH,19000,Utilization
+2019-02-01,DSW,3422,Utilization
+2019-07-01,INSIGHTSRE,733,Utilization
+2018-09-01,DSW,835,Utilization
+2019-09-01,WATSONEXP,170,Group Technology Management
+2019-06-01,OCR,170,Group Technology Management
+2019-05-01,DNA,170,Group Technology Management
+2019-01-01,DATAROBOT,2258,Group Technology Management
+2019-05-01,TMA,8618,Swisscom
+2019-07-01,SISLAB,0,Swisscom
+2019-01-01,INSIGHTSRE,2259,Swisscom
+2019-09-01,GEORE1,0,Azure
+2019-04-01,SISLAB,46,Azure
+2019-09-01,SISLAB,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-02-01,GEORE1,48,Azure
+2019-03-01,PYTHIA,17,Azure
+2019-01-01,SISLAB,5,Azure
+2019-01-01,DSW,937,Swisscom
+2019-01-01,SISLAB,0,Swisscom
+2019-01-01,PYTHIA,18,Swisscom
+2019-03-01,INSIGHTSRE,372,Swisscom
+2019-04-01,PYTHIA,144,Swisscom
+2019-04-01,TMA,12,Swisscom
+2019-01-01,TMA,19,Swisscom
+2019-05-01,GEORE1,0,Azure
+2019-08-01,SISLAB,0,Azure
+2017-02-01,DOCSEARCH,817,Utilization
+2019-05-01,DNA,286,Utilization
+2019-04-01,DOCSEARCH,170,Group Technology Management
+2019-01-01,INSIGHTSRE,170,Group Technology Management
+2019-07-01,DOCSEARCH,1633,Group Technology Management
+2019-03-01,TMA,59,Group Technology Management
+2019-06-01,TMA,154,Group Technology Management
+2019-07-01,DATAROBOT,1625,Swisscom
+2019-07-01,TMA,31,Swisscom
+2019-02-01,TMA,19,Swisscom
+2019-05-01,TMA,43,Group Technology Management
+2019-09-01,INSIGHTSRE,89,Group Technology Management
+2019-07-01,GEORE1,0,Azure
+2019-08-01,SISLAB,0,Azure
+2019-07-01,SISLAB,1,Azure
+2019-06-01,GEORE1,0,Azure
+2019-04-01,GEORE1,78,Azure
+2017-02-01,TMA,20772,Utilization
+2018-02-01,TMA,2639,Utilization
+2019-09-01,DNA,1671,Utilization
+2018-12-01,DSW,10384,Utilization
+2018-04-01,TMA,2861,Utilization
+2018-05-01,INSIGHTSRE,1955,Utilization
+2018-02-01,DOCSEARCH,0,Utilization
+2019-01-01,TMA,1350,Group Technology Management
+2019-07-01,TMA,170,Group Technology Management
+2019-07-01,OCR,550,Group Technology Management
+2019-05-01,TMA,917,Group Technology Management
+2019-09-01,SISLAB,7549,Group Technology Management
+2019-06-01,GEORE1,19,Azure
+2019-08-01,SISLAB,389,Azure
+2019-03-01,GEORE1,0,Azure
+2019-08-01,SISLAB,4,Azure
+2019-09-01,PYTHIA,0,Azure
+2019-07-01,TMA,9720,Swisscom
+2019-02-01,DNA,1150,Swisscom
+2019-03-01,PYTHIA,304,Swisscom
+2019-09-01,SISLAB,1936,Swisscom
+2019-01-01,DSW,544,Swisscom
+2019-06-01,DSC,1642,Group Technology Management
+2019-02-01,DOCPROXY,170,Group Technology Management
+2019-09-01,SISLAB,710,Group Technology Management
+2019-08-01,INSIGHTSRE,170,Group Technology Management
+2019-03-01,SISLAB,170,Group Technology Management
+2019-01-01,VISREPBOXI,0,Group Technology Management
+2019-05-01,DOCPROXY,187,Group Technology Management
+2019-09-01,SISLAB,0,Azure
+2019-05-01,SISLAB,14,Azure
+2019-05-01,GEORE1,21,Azure
+2019-01-01,SISLAB,0,Azure
+2018-04-01,INSIGHTSRE,5240,Utilization
+2018-06-01,INSIGHTSRE,5240,Utilization
+2017-07-01,DOCSEARCH,5434,Utilization
+2018-08-01,INSIGHTSRE,5012,Utilization
+2019-04-01,DATAROBOT,447,Swisscom
+2019-09-01,OCR,357,Swisscom
+2019-01-01,DSW,28,Swisscom
+2019-09-01,DATAROBOT,0,Swisscom
+2019-01-01,SAMS,1,Swisscom
+2019-03-01,PYTHIA,1,Swisscom
+2019-04-01,DSW,79,Swisscom
+2019-07-01,DSW,1877,Swisscom
+2019-02-01,DATAROBOT,498,Swisscom
+2019-03-01,INSIGHTSRE,4004,Swisscom
+2019-06-01,SISLAB,0,Azure
+2019-02-01,SISLAB,1,Azure
+2019-08-01,SISLAB,0,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-04-01,SISLAB,710,Group Technology Management
+2019-05-01,INSIGHTSRE,170,Group Technology Management
+2019-04-01,TMA,170,Group Technology Management
+2018-03-01,DOCSEARCH,25924,Utilization
+2017-08-01,DOCSEARCH,12560,Utilization
+2019-08-01,DSW,2933,Utilization
+2017-08-01,DNA,8212,Utilization
+2019-04-01,INSIGHTSRE,6682,Utilization
+2019-01-01,TMA,5277,Utilization
+2019-03-01,PYTHIA,1349,Group Technology Management
+2019-01-01,DSC,1232,Group Technology Management
+2019-06-01,GEORE1,170,Group Technology Management
+2019-06-01,OCR,170,Group Technology Management
+2019-08-01,OCR,170,Group Technology Management
+2019-02-01,SISLAB,170,Group Technology Management
+2019-07-01,SAMS,550,Group Technology Management
+2019-02-01,TMA,155,Group Technology Management
+2019-08-01,PYTHIA,1016,Group Technology Management
+2019-07-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-04-01,SISLAB,38,Azure
+2019-07-01,PYTHIA,80,Swisscom
+2019-05-01,PYTHIA,1180,Swisscom
+2019-02-01,GEORE1,1,Azure
+2019-05-01,SISLAB,52,Azure
+2019-05-01,SISLAB,40,Azure
+2019-03-01,SISLAB,0,Azure
+2019-05-01,DOCSEARCH,1633,Group Technology Management
+2019-01-01,INSIGHTSRE,45,Group Technology Management
+2019-08-01,SISLAB,212,Swisscom
+2019-03-01,TMA,752,Swisscom
+2019-06-01,DSW,1460,Swisscom
+2019-02-01,PYTHIA,2,Swisscom
+2019-02-01,DSW,29,Swisscom
+2019-04-01,INSIGHTSRE,30,Swisscom
+2017-07-01,TMA,34136,Utilization
+2019-02-01,INSIGHTSRE,13624,Utilization
+2017-02-01,DNA,0,Utilization
+2017-10-01,DOCSEARCH,817,Utilization
+2017-08-01,DOCSEARCH,2174,Utilization
+2018-05-01,TMA,41221,Utilization
+2018-03-01,DSW,18673,Utilization
+2019-01-01,TMA,26568,Utilization
+2018-05-01,INSIGHTSRE,5012,Utilization
+2019-09-01,SISLAB,0,Swisscom
+2019-04-01,INSIGHTSRE,36,Swisscom
+2019-05-01,INSIGHTSRE,27,Swisscom
+2019-09-01,INSIGHTSRE,2630,Swisscom
+2019-03-01,DOCSEARCH,170,Group Technology Management
+2019-01-01,DOCSEARCH,170,Group Technology Management
+2019-05-01,SAMS,170,Group Technology Management
+2019-02-01,SISLAB,0,Azure
+2019-04-01,GEORE1,290,Azure
+2019-07-01,GEORE1,4,Azure
+2019-03-01,SISLAB,0,Azure
+2019-03-01,SISLAB,170,Group Technology Management
+2019-06-01,SISLAB,170,Group Technology Management
+2019-06-01,TMA,170,Group Technology Management
+2019-03-01,SFILE,170,Group Technology Management
+2019-09-01,PYTHIA,188,Group Technology Management
+2019-02-01,DNA,265,Group Technology Management
+2019-06-01,DSC,1,Group Technology Management
+2019-06-01,INSIGHTSRE,773,Swisscom
+2019-02-01,DSW,427,Swisscom
+2019-07-01,TMA,80,Swisscom
+2019-06-01,SISLAB,0,Azure
+2019-01-01,GEORE1,0,Azure
+2019-01-01,SISLAB,15,Azure
+2018-05-01,PYTHIA,4888,Utilization
+2019-04-01,INSIGHTSRE,978,Utilization
+2017-10-01,SAMS,644,Utilization
+2019-01-01,SAMS,41,Utilization
+2019-04-01,OCR,170,Group Technology Management
+2019-07-01,DOCSEARCH,170,Group Technology Management
+2019-05-01,OCR,277,Group Technology Management
+2019-08-01,PYTHIA,170,Group Technology Management
+2019-06-01,PYTHIA,170,Group Technology Management
+2019-09-01,SISLAB,170,Group Technology Management
+2019-08-01,INSIGHTSRE,12349,Group Technology Management
+2018-10-01,DSW,4399,Utilization
+2018-12-01,DSW,2444,Utilization
+2018-04-01,TMA,2639,Utilization
+2019-09-01,SISLAB,1,Azure
+2019-04-01,GEORE1,0,Azure
+2019-01-01,GEORE1,0,Azure
+2019-04-01,GEORE1,1,Azure
+2019-02-01,TMA,601,Swisscom
+2019-01-01,PYTHIA,839,Swisscom
+2019-04-01,PYTHIA,34,Swisscom
+2019-02-01,SAMS,61,Swisscom
+2019-09-01,TMA,44,Swisscom
+2019-03-01,DATAROBOT,551,Swisscom
+2019-01-01,SAMS,3,Swisscom
+2019-02-01,TMA,184,Swisscom
+2019-06-01,DSW,1778,Swisscom
+2017-04-01,DOCSEARCH,817,Utilization
+2019-05-01,DNA,1671,Utilization
+2019-04-01,DOCSEARCH,1191,Group Technology Management
+2019-07-01,PYTHIA,710,Group Technology Management
+2019-08-01,TMA,170,Group Technology Management
+2019-05-01,SISLAB,170,Group Technology Management
+2019-03-01,TMA,1871,Group Technology Management
+2019-02-01,DATAROBOT,2564,Group Technology Management
+2019-07-01,SISLAB,0,Azure
+2019-09-01,GEORE1,0,Azure
+2019-02-01,INSIGHTSRE,4000,Swisscom
+2019-05-01,TMA,255,Swisscom
+2019-07-01,SISLAB,5,Azure
+2019-06-01,GEORE1,0,Azure
+2019-05-01,SISLAB,58,Azure
+2019-06-01,SISLAB,0,Azure
+2019-05-01,OCR,409,Utilization
+2019-03-01,TMA,293,Group Technology Management
+2019-01-01,SISLAB,710,Group Technology Management
+2019-06-01,INSIGHTSRE,170,Group Technology Management
+2019-02-01,TMA,170,Group Technology Management
+2019-07-01,DNA,170,Group Technology Management
+2019-04-01,INSIGHTSRE,170,Group Technology Management
+2019-03-01,SISLAB,170,Group Technology Management
+2019-02-01,SAMS,550,Group Technology Management
+2019-09-01,PYTHIA,1,Azure
+2019-06-01,SISLAB,22,Azure
+2019-09-01,SISLAB,3,Azure
+2019-04-01,TMA,1339,Group Technology Management
+2019-08-01,TMA,917,Group Technology Management
+2019-03-01,LHTI,55,Group Technology Management
+2019-01-01,SISLAB,170,Group Technology Management
+2019-04-01,OCR,170,Group Technology Management
+2019-03-01,INSIGHTSRE,170,Group Technology Management
+2019-06-01,INSIGHTSRE,12636,Group Technology Management
+2019-04-01,TMA,8279,Swisscom
+2019-01-01,SAMS,19,Swisscom
+2019-08-01,DSW,5,Swisscom
+2019-01-01,DSW,883,Swisscom
+2019-03-01,DATAROBOT,525,Swisscom
+2019-02-01,SAMS,16,Swisscom
+2018-04-01,DOCSEARCH,0,Utilization
+2019-01-01,OCR,409,Utilization
+2018-05-01,TMA,0,Utilization
+2019-07-01,LHTI,293,Swisscom
+2019-09-01,PYTHIA,29,Swisscom
+2019-06-01,DATAROBOT,455,Swisscom
+2019-06-01,TMA,0,Swisscom
+2019-01-01,TMA,2,Swisscom
+2017-09-01,TMA,2861,Utilization
+2019-06-01,SAMS,41,Utilization
+2019-07-01,PYTHIA,0,Azure
+2019-02-01,SISLAB,1,Azure
+2019-05-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-04-01,GEORE1,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-07-01,PYTHIA,0,Azure
+2019-08-01,TMA,170,Group Technology Management
+2019-06-01,SFILE,24,Group Technology Management
+2019-08-01,PYTHIA,170,Group Technology Management
+2019-03-01,GEORE1,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-08-01,SISLAB,145,Azure
+2019-07-01,GEORE1,0,Azure
+2019-07-01,SISLAB,2,Azure
+2019-04-01,TMA,170,Group Technology Management
+2019-03-01,DNA,170,Group Technology Management
+2017-11-01,TMA,4087,Utilization
+2017-08-01,TMA,2044,Utilization
+2018-04-01,INSIGHTSRE,5012,Utilization
+2019-08-01,DNA,1671,Utilization
+2019-09-01,DSW,1290,Swisscom
+2019-06-01,PYTHIA,283,Swisscom
+2019-06-01,SAMS,22,Swisscom
+2019-06-01,SISLAB,2138,Swisscom
+2019-03-01,PYTHIA,1047,Swisscom
+2019-07-01,DSW,1873,Swisscom
+2019-01-01,DSW,479,Swisscom
+2019-03-01,DOCSEARCH,18356,Utilization
+2017-09-01,DNA,10466,Utilization
+2019-04-01,DSW,2096,Utilization
+2017-01-01,DSW,1671,Utilization
+2017-05-01,SAMS,805,Utilization
+2019-09-01,SISLAB,0,Azure
+2019-02-01,SISLAB,28,Azure
+2019-01-01,SISLAB,0,Azure
+2019-02-01,PYTHIA,668,Swisscom
+2019-03-01,DATAROBOT,15,Swisscom
+2019-02-01,INSIGHTSRE,9,Swisscom
+2019-03-01,INSIGHTSRE,712,Group Technology Management
+2019-01-01,DSW,170,Group Technology Management
+2019-04-01,SISLAB,0,Azure
+2019-01-01,SISLAB,96,Azure
+2018-08-01,INSIGHTSRE,36571,Utilization
+2019-05-01,PYTHIA,170,Group Technology Management
+2019-01-01,DOCSEARCH,615,Group Technology Management
+2019-08-01,PYTHIA,13,Group Technology Management
+2019-01-01,BCHART,55,Swisscom
+2019-04-01,SAMS,22,Swisscom
+2019-01-01,DSW,3168,Swisscom
+2019-02-01,DSC,3176,Swisscom
+2019-05-01,DATAROBOT,652,Swisscom
+2019-04-01,TMA,38,Swisscom
+2019-09-01,TMA,92,Swisscom
+2019-03-01,SISLAB,1,Azure
+2019-09-01,PYTHIA,4,Azure
+2019-09-01,PYTHIA,0,Azure
+2019-02-01,SISLAB,4,Azure
+2019-08-01,DOCSEARCH,630,Group Technology Management
+2019-08-01,WATSONEXP,170,Group Technology Management
+2017-03-01,TMA,28823,Utilization
+2019-04-01,DOCSEARCH,18517,Utilization
+2019-04-01,DNA,1671,Utilization
+2019-03-01,INSIGHTSRE,4831,Swisscom
+2019-06-01,DSW,6,Swisscom
+2019-08-01,SISLAB,2502,Swisscom
+2019-09-01,DSC,1181,Swisscom
+2019-05-01,PYTHIA,200,Swisscom
+2019-02-01,INSIGHTSRE,7,Swisscom
+2019-01-01,TMA,17,Swisscom
+2019-02-01,DATAROBOT,1035,Swisscom
+2019-01-01,SAMS,15,Swisscom
+2019-06-01,SISLAB,16,Swisscom
+2019-04-01,SISLAB,14,Swisscom
+2019-01-01,DSW,5431,Swisscom
+2019-03-01,TMA,48,Swisscom
+2019-03-01,SISLAB,0,Azure
+2019-04-01,GEORE1,0,Azure
+2019-02-01,SISLAB,58,Azure
+2019-04-01,GEORE1,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-08-01,SISLAB,0,Azure
+2017-02-01,DSW,1671,Utilization
+2019-06-01,DOCPROXY,170,Group Technology Management
+2019-08-01,DSW,170,Group Technology Management
+2019-05-01,PYTHIA,13,Group Technology Management
+2019-04-01,SISLAB,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-01-01,SISLAB,21,Azure
+2019-08-01,TMA,1,Azure
+2018-01-01,DNA,835,Utilization
+2019-04-01,DATAROBOT,411,Group Technology Management
+2019-01-01,DOCSEARCH,170,Group Technology Management
+2019-09-01,PYTHIA,170,Group Technology Management
+2019-05-01,PYTHIA,170,Group Technology Management
+2019-05-01,SISLAB,170,Group Technology Management
+2019-03-01,DSW,4564,Swisscom
+2019-06-01,DSW,11054,Swisscom
+2019-04-01,SAMS,18,Swisscom
+2019-03-01,INSIGHTSRE,393,Swisscom
+2019-08-01,TMA,168,Azure
+2019-09-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-09-01,SISLAB,0,Azure
+2017-02-01,DNA,23088,Utilization
+2018-08-01,DSW,0,Utilization
+2017-12-01,DSW,0,Utilization
+2019-01-01,INSIGHTSRE,2170,Group Technology Management
+2019-04-01,INSIGHTSRE,170,Group Technology Management
+2019-04-01,TMA,39,Group Technology Management
+2019-03-01,LHTI,170,Group Technology Management
+2019-01-01,DOCSEARCH,170,Group Technology Management
+2019-02-01,PYTHIA,71,Swisscom
+2019-06-01,DSW,34,Swisscom
+2019-05-01,INSIGHTSRE,43,Swisscom
+2019-01-01,TMA,16,Swisscom
+2019-07-01,TMA,32204,Utilization
+2018-06-01,PYTHIA,10384,Utilization
+2017-12-01,OCR,10788,Utilization
+2017-11-01,TMA,3958,Utilization
+2018-07-01,DNA,1932,Utilization
+2019-06-01,INSIGHTSRE,778,Group Technology Management
+2019-09-01,INSIGHTSRE,170,Group Technology Management
+2019-07-01,TMA,170,Group Technology Management
+2019-05-01,DOCPROXY,170,Group Technology Management
+2019-07-01,TMA,170,Group Technology Management
+2019-04-01,SISLAB,14,Azure
+2019-08-01,SISLAB,0,Azure
+2019-06-01,SISLAB,22,Azure
+2019-03-01,SAMS,1,Swisscom
+2019-08-01,PYTHIA,1061,Swisscom
+2019-02-01,DSW,1672,Swisscom
+2017-05-01,TMA,40255,Utilization
+2017-03-01,DOCSEARCH,23187,Utilization
+2019-01-01,DSW,3910,Utilization
+2018-11-01,TMA,5277,Utilization
+2018-07-01,DSW,3341,Utilization
+2019-01-01,PYTHIA,203,Swisscom
+2019-08-01,PYTHIA,134,Swisscom
+2019-06-01,INSIGHTSRE,38,Swisscom
+2019-06-01,DSW,1048,Swisscom
+2019-01-01,TMA,6,Swisscom
+2019-05-01,TMA,204,Swisscom
+2019-08-01,GEORE1,14,Azure
+2019-08-01,SAMS,550,Group Technology Management
+2019-01-01,INSIGHTSRE,170,Group Technology Management
+2019-05-01,PYTHIA,710,Group Technology Management
+2019-09-01,SAMS,170,Group Technology Management
+2019-06-01,TMA,170,Group Technology Management
+2019-05-01,DATAROBOT,170,Group Technology Management
+2018-12-01,TMA,22382,Utilization
+2017-12-01,TMA,4087,Utilization
+2017-05-01,DOCSEARCH,817,Utilization
+2018-01-01,DSW,0,Utilization
+2019-08-01,DOCSEARCH,550,Group Technology Management
+2019-08-01,GEORE1,170,Group Technology Management
+2019-03-01,INSIGHTSRE,5650,Swisscom
+2019-01-01,DSC,2466,Swisscom
+2019-03-01,DSW,1851,Swisscom
+2019-01-01,SAMS,14,Swisscom
+2019-09-01,GEORE1,0,Azure
+2019-04-01,GEORE1,0,Azure
+2019-07-01,SISLAB,53,Azure
+2019-07-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-07-01,SISLAB,0,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-09-01,SISLAB,6,Azure
+2019-07-01,PYTHIA,0,Azure
+2019-06-01,DSC,3404,Swisscom
+2019-05-01,DSC,6,Swisscom
+2019-07-01,TMA,917,Group Technology Management
+2019-03-01,DNA,170,Group Technology Management
+2019-03-01,DOCPROXY,170,Group Technology Management
+2019-05-01,OCR,170,Group Technology Management
+2019-02-01,TMA,170,Group Technology Management
+2019-05-01,SISLAB,9454,Group Technology Management
+2018-11-01,OCR,8694,Utilization
+2018-04-01,DNA,1127,Utilization
+2019-03-01,GEORE1,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-04-01,SISLAB,11,Azure
+2019-08-01,SISLAB,56,Azure
+2019-06-01,SISLAB,2,Azure
+2019-07-01,SISLAB,17,Azure
+2019-04-01,OCR,187,Group Technology Management
+2019-07-01,TMA,170,Group Technology Management
+2019-08-01,TMA,123,Swisscom
+2019-09-01,PYTHIA,15,Swisscom
+2019-09-01,SISLAB,2,Swisscom
+2019-01-01,TMA,6,Swisscom
+2019-04-01,GEORE1,0,Azure
+2019-02-01,SISLAB,4,Azure
+2019-03-01,GEORE1,54,Azure
+2019-03-01,SISLAB,0,Azure
+2019-07-01,SISLAB,22,Azure
+2019-05-01,DSW,3910,Utilization
+2019-06-01,DSW,3910,Utilization
+2018-07-01,DSW,0,Utilization
+2019-03-01,PYTHIA,199,Swisscom
+2019-05-01,LHTI,170,Group Technology Management
+2019-07-01,SISLAB,18845,Group Technology Management
+2019-02-01,SISLAB,27,Group Technology Management
+2019-06-01,DOCSEARCH,630,Group Technology Management
+2019-08-01,TMA,47,Group Technology Management
+2019-01-01,TMA,917,Group Technology Management
+2019-02-01,GEORE1,47,Azure
+2019-05-01,GEORE1,51,Azure
+2019-01-01,GEORE1,3,Azure
+2019-09-01,GEORE1,0,Azure
+2019-02-01,SISLAB,15,Swisscom
+2019-08-01,INSIGHTSRE,1286,Swisscom
+2019-09-01,DATAROBOT,547,Swisscom
+2019-05-01,SISLAB,2215,Swisscom
+2019-07-01,DSW,1779,Swisscom
+2017-07-01,OCR,409,Utilization
+2018-09-01,DSW,719,Utilization
+2019-02-01,SISLAB,5395,Group Technology Management
+2019-07-01,SAMS,61,Group Technology Management
+2019-03-01,DOCSEARCH,3396,Group Technology Management
+2019-02-01,DOCPROXY,2547,Group Technology Management
+2019-03-01,SISLAB,1,Azure
+2019-01-01,GEORE1,37,Azure
+2019-03-01,GEORE1,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-08-01,GEORE1,78,Azure
+2017-01-01,SAMS,2415,Utilization
+2018-03-01,DSW,0,Utilization
+2019-09-01,LHTI,105,Swisscom
+2019-01-01,DSW,40,Swisscom
+2019-01-01,DSW,701,Swisscom
+2018-04-01,DSW,18377,Utilization
+2017-04-01,DNA,0,Utilization
+2018-05-01,DSW,8860,Utilization
+2017-07-01,DSW,2444,Utilization
+2017-03-01,DOCSEARCH,817,Utilization
+2019-07-01,TMA,2639,Utilization
+2018-02-01,DSW,409,Utilization
+2019-02-01,DSW,835,Utilization
+2019-02-01,TMA,5,Swisscom
+2019-08-01,SISLAB,0,Swisscom
+2019-06-01,DATAROBOT,1572,Swisscom
+2019-07-01,DSW,1083,Swisscom
+2019-03-01,PYTHIA,6,Swisscom
+2019-06-01,SISLAB,40,Azure
+2019-09-01,SISLAB,170,Group Technology Management
+2019-02-01,SISLAB,170,Group Technology Management
+2019-03-01,TMA,170,Group Technology Management
+2019-08-01,SAMS,170,Group Technology Management
+2019-07-01,SISLAB,10298,Group Technology Management
+2019-02-01,SISLAB,14,Swisscom
+2019-01-01,PYTHIA,54,Swisscom
+2019-04-01,SISLAB,15,Swisscom
+2019-02-01,DSW,17,Swisscom
+2019-05-01,TMA,469,Group Technology Management
+2019-04-01,INSIGHTSRE,3695,Group Technology Management
+2019-01-01,DOCSEARCH,170,Group Technology Management
+2019-08-01,SFILE,710,Group Technology Management
+2019-05-01,OCR,911,Group Technology Management
+2019-09-01,PYTHIA,392,Group Technology Management
+2019-03-01,TMA,917,Group Technology Management
+2019-04-01,OCR,911,Group Technology Management
+2017-01-01,DNA,31059,Utilization
+2018-03-01,OCR,1226,Utilization
+2017-09-01,DOCSEARCH,817,Utilization
+2018-10-01,PYTHIA,489,Utilization
+2019-08-01,SISLAB,0,Azure
+2019-07-01,GEORE1,0,Azure
+2019-09-01,TMA,0,Azure
+2019-09-01,TMA,0,Azure
+2018-04-01,INSIGHTSRE,15053,Utilization
+2019-01-01,TMA,6692,Utilization
+2017-12-01,DSW,3355,Utilization
+2017-09-01,OCR,409,Utilization
+2019-04-01,OCR,409,Utilization
+2019-03-01,SISLAB,0,Azure
+2019-03-01,SISLAB,5,Azure
+2019-08-01,PYTHIA,20,Azure
+2019-09-01,TMA,586,Group Technology Management
+2019-08-01,DSW,4281,Group Technology Management
+2019-07-01,OCR,944,Group Technology Management
+2019-09-01,TMA,170,Group Technology Management
+2019-02-01,SAMS,72,Group Technology Management
+2019-06-01,LHTI,273,Swisscom
+2019-08-01,DSW,31,Swisscom
+2019-08-01,PYTHIA,777,Swisscom
+2019-04-01,DSW,460,Swisscom
+2019-05-01,SISLAB,5553,Swisscom
+2019-08-01,PYTHIA,177,Swisscom
+2019-03-01,DSW,1528,Swisscom
+2019-05-01,SISLAB,5574,Swisscom
+2019-05-01,TMA,40,Swisscom
+2019-06-01,DATAROBOT,42,Swisscom
+2019-03-01,TMA,0,Swisscom
+2018-11-01,DOCSEARCH,0,Utilization
+2019-09-01,GEORE1,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-06-01,SISLAB,52,Azure
+2019-05-01,GEORE1,0,Azure
+2019-07-01,OCR,170,Group Technology Management
+2019-05-01,DNA,170,Group Technology Management
+2019-08-01,TMA,7,Azure
+2019-07-01,GEORE1,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-08-01,SISLAB,0,Azure
+2019-08-01,PYTHIA,0,Azure
+2019-08-01,OCR,967,Swisscom
+2019-04-01,DSW,6,Swisscom
+2019-09-01,DATAROBOT,213,Swisscom
+2019-03-01,DSW,596,Swisscom
+2019-02-01,DATAROBOT,1299,Swisscom
+2019-07-01,SISLAB,39,Swisscom
+2019-07-01,INSIGHTSRE,73,Swisscom
+2019-04-01,INSIGHTSRE,9,Swisscom
+2018-05-01,DSW,0,Utilization
+2019-06-01,SISLAB,170,Group Technology Management
+2019-01-01,DNA,170,Group Technology Management
+2019-01-01,GEORE1,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-01-01,GEORE1,1,Azure
+2019-03-01,GEORE1,0,Azure
+2019-06-01,SISLAB,5,Azure
+2019-06-01,SISLAB,13,Azure
+2019-08-01,DOCPROXY,170,Group Technology Management
+2019-03-01,OCR,170,Group Technology Management
+2019-08-01,INSIGHTSRE,170,Group Technology Management
+2019-07-01,SISLAB,4435,Group Technology Management
+2019-07-01,SAMS,23,Swisscom
+2019-03-01,SISLAB,2064,Swisscom
+2019-02-01,INSIGHTSRE,8353,Utilization
+2018-06-01,DNA,4348,Utilization
+2018-12-01,PYTHIA,244,Utilization
+2019-06-01,PYTHIA,0,Azure
+2019-06-01,PYTHIA,167,Azure
+2019-06-01,GEORE1,0,Azure
+2019-09-01,DSW,11,Swisscom
+2019-09-01,DSC,887,Swisscom
+2019-01-01,PYTHIA,587,Swisscom
+2019-02-01,PYTHIA,41,Swisscom
+2019-03-01,PYTHIA,35,Swisscom
+2017-05-01,TMA,2861,Utilization
+2018-09-01,PYTHIA,5012,Utilization
+2019-05-01,SISLAB,710,Group Technology Management
+2019-04-01,SFILE,170,Group Technology Management
+2019-08-01,SFILE,170,Group Technology Management
+2019-09-01,DSC,2,Group Technology Management
+2019-01-01,SISLAB,7,Swisscom
+2019-01-01,DSW,4,Swisscom
+2019-06-01,SISLAB,4898,Swisscom
+2019-01-01,SISLAB,5080,Swisscom
+2019-09-01,SAMS,25,Swisscom
+2018-09-01,DSW,7812,Utilization
+2017-11-01,DSW,0,Utilization
+2019-04-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-05-01,SISLAB,1,Azure
+2019-09-01,GEORE1,3,Azure
+2019-02-01,SISLAB,0,Azure
+2019-02-01,GEORE1,18,Azure
+2019-03-01,DOCPROXY,49,Group Technology Management
+2019-04-01,OCR,170,Group Technology Management
+2019-02-01,SISLAB,4292,Group Technology Management
+2019-04-01,GEORE1,0,Azure
+2019-04-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-06-01,SFILE,710,Group Technology Management
+2019-08-01,DSW,170,Group Technology Management
+2019-06-01,GEORE1,170,Group Technology Management
+2019-03-01,WAEXI,170,Group Technology Management
+2018-09-01,DSW,14386,Utilization
+2019-05-01,TMA,4891,Utilization
+2017-11-01,OCR,817,Utilization
+2019-02-01,SISLAB,4862,Swisscom
+2019-07-01,DSC,183,Swisscom
+2019-09-01,DSW,589,Swisscom
+2019-05-01,SISLAB,20,Swisscom
+2019-01-01,GEORE1,0,Azure
+2019-05-01,GEORE1,0,Azure
+2019-08-01,SISLAB,0,Azure
+2019-06-01,GEORE1,19,Azure
+2019-05-01,GEORE1,0,Azure
+2018-07-01,INSIGHTSRE,10861,Utilization
+2019-07-01,SAMS,41,Utilization
+2019-03-01,DOCPROXY,170,Group Technology Management
+2019-05-01,OCR,550,Group Technology Management
+2019-09-01,DOCPROXY,356,Swisscom
+2019-01-01,DSW,138,Swisscom
+2019-02-01,SISLAB,1808,Swisscom
+2019-03-01,DSW,103,Swisscom
+2019-01-01,SISLAB,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-01-01,GEORE1,16,Azure
+2019-07-01,GEORE1,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-06-01,OCR,277,Group Technology Management
+2019-02-01,DOCPROXY,170,Group Technology Management
+2019-07-01,SISLAB,170,Group Technology Management
+2019-09-01,DSW,20,Swisscom
+2019-08-01,TMA,255,Swisscom
+2018-06-01,OCR,1226,Utilization
+2018-12-01,PYTHIA,4177,Utilization
+2017-11-01,DNA,1671,Utilization
+2019-01-01,TMA,17,Swisscom
+2019-06-01,INSIGHTSRE,7578,Swisscom
+2019-08-01,PYTHIA,180,Swisscom
+2019-03-01,TMA,56,Swisscom
+2019-07-01,DATAROBOT,44,Swisscom
+2019-01-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-08-01,INSIGHTSRE,5571,Group Technology Management
+2019-01-01,VISREPBOXI,2146,Group Technology Management
+2019-06-01,SISLAB,27,Group Technology Management
+2018-03-01,DSW,10099,Utilization
+2019-06-01,OCR,5434,Utilization
+2018-08-01,DOCSEARCH,0,Utilization
+2019-07-01,OCR,409,Utilization
+2017-02-01,SAMS,204,Utilization
+2019-09-01,DOCSEARCH,170,Group Technology Management
+2019-01-01,OCR,277,Group Technology Management
+2019-09-01,DOCSEARCH,170,Group Technology Management
+2019-01-01,OCR,785,Group Technology Management
+2019-01-01,GEORE1,0,Azure
+2019-05-01,SISLAB,0,Azure
+2017-05-01,OCR,12498,Utilization
+2018-05-01,PYTHIA,9336,Utilization
+2019-03-01,DSW,3422,Utilization
+2017-01-01,OCR,409,Utilization
+2019-09-01,SAMS,41,Utilization
+2019-01-01,DOCPROXY,855,Swisscom
+2019-05-01,DSW,35,Swisscom
+2019-09-01,SISLAB,5,Swisscom
+2019-08-01,PYTHIA,76,Swisscom
+2019-04-01,INSIGHTSRE,4,Swisscom
+2019-03-01,DATAROBOT,11,Swisscom
+2019-05-01,PYTHIA,196,Swisscom
+2019-04-01,DSW,311,Swisscom
+2019-06-01,PYTHIA,81,Swisscom
+2019-06-01,INSIGHTSRE,4,Swisscom
+2019-07-01,PYTHIA,200,Swisscom
+2019-07-01,DSW,81,Swisscom
+2019-07-01,DSC,1818,Group Technology Management
+2019-08-01,PYTHIA,170,Group Technology Management
+2019-09-01,DOCPROXY,170,Group Technology Management
+2019-01-01,TMA,170,Group Technology Management
+2019-05-01,VISREPBOXI,0,Group Technology Management
+2019-08-01,DSC,2,Group Technology Management
+2018-11-01,DSW,4644,Utilization
+2017-03-01,DNA,8353,Utilization
+2019-04-01,SISLAB,0,Azure
+2019-01-01,SISLAB,216,Azure
+2019-01-01,SISLAB,0,Azure
+2019-09-01,SISLAB,4,Azure
+2017-11-01,TMA,27856,Utilization
+2019-01-01,SAMS,9983,Utilization
+2019-07-01,INSIGHTSRE,6682,Utilization
+2017-10-01,DSW,0,Utilization
+2019-08-01,TMA,2639,Utilization
+2019-05-01,SISLAB,0,Azure
+2019-01-01,GEORE1,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-08-01,GEORE1,0,Azure
+2019-09-01,GEORE1,0,Azure
+2019-04-01,DNA,1231,Swisscom
+2019-04-01,PYTHIA,833,Swisscom
+2019-04-01,SAMS,10,Swisscom
+2019-04-01,INSIGHTSRE,752,Group Technology Management
+2019-01-01,DNA,170,Group Technology Management
+2019-03-01,SISLAB,170,Group Technology Management
+2019-08-01,DNA,170,Group Technology Management
+2019-06-01,TMA,170,Group Technology Management
+2019-01-01,DOCPROXY,2547,Group Technology Management
+2019-09-01,TMA,32204,Utilization
+2017-06-01,DOCSEARCH,23509,Utilization
+2017-12-01,OCR,817,Utilization
+2018-12-01,SAMS,644,Utilization
+2019-02-01,PYTHIA,170,Group Technology Management
+2019-01-01,OCR,170,Group Technology Management
+2019-03-01,OCR,550,Group Technology Management
+2019-07-01,DSW,35,Swisscom
+2019-03-01,DATAROBOT,1,Swisscom
+2019-08-01,GEORE1,183,Azure
+2019-07-01,SISLAB,1,Azure
+2019-08-01,DATAROBOT,411,Group Technology Management
+2019-05-01,DATAROBOT,411,Group Technology Management
+2019-04-01,DOCPROXY,187,Group Technology Management
+2019-01-01,WATSONEXP,37,Group Technology Management
+2019-01-01,DSC,4649,Group Technology Management
+2019-04-01,OCR,9238,Utilization
+2019-02-01,PYTHIA,131,Swisscom
+2019-04-01,DSW,1335,Swisscom
+2019-06-01,SISLAB,37,Swisscom
+2019-01-01,SISLAB,2,Swisscom
+2019-07-01,SISLAB,11644,Swisscom
+2019-06-01,TMA,184,Swisscom
+2019-04-01,DSC,2449,Swisscom
+2019-01-01,SISLAB,10,Azure
+2019-04-01,GEORE1,0,Azure
+2019-01-01,GEORE1,40,Azure
+2018-06-01,OCR,20867,Utilization
+2018-11-01,DNA,8353,Utilization
+2017-05-01,OCR,4348,Utilization
+2019-08-01,PYTHIA,1349,Group Technology Management
+2019-01-01,DNA,170,Group Technology Management
+2019-02-01,TMA,170,Group Technology Management
+2019-04-01,OCR,170,Group Technology Management
+2019-04-01,GEORE1,3,Azure
+2019-08-01,DNA,1274,Swisscom
+2019-07-01,DSW,62,Swisscom
+2019-07-01,PYTHIA,1180,Swisscom
+2019-04-01,PYTHIA,190,Swisscom
+2019-07-01,DOCPROXY,993,Swisscom
+2019-04-01,DSW,34,Swisscom
+2019-06-01,DSC,2140,Swisscom
+2019-03-01,SAMS,17,Swisscom
+2019-02-01,SISLAB,10706,Swisscom
+2019-08-01,DSC,179,Swisscom
+2019-05-01,INSIGHTSRE,4440,Swisscom
+2019-06-01,TMA,197,Swisscom
+2019-08-01,TMA,20,Swisscom
+2018-04-01,DSW,15624,Utilization
+2018-01-01,TMA,2639,Utilization
+2019-06-01,SISLAB,43,Azure
+2019-05-01,SISLAB,0,Azure
+2019-02-01,GEORE1,170,Group Technology Management
+2017-03-01,DNA,18828,Utilization
+2017-01-01,OCR,9781,Utilization
+2019-01-01,TMA,2044,Utilization
+2018-07-01,PYTHIA,6682,Utilization
+2018-02-01,DSW,7908,Utilization
+2017-11-01,SAMS,4026,Utilization
+2017-09-01,DNA,2506,Utilization
+2018-09-01,INSIGHTSRE,409,Utilization
+2019-02-01,INSIGHTSRE,7118,Swisscom
+2019-01-01,DSW,35,Swisscom
+2019-09-01,INSIGHTSRE,1287,Swisscom
+2019-07-01,SAMS,16,Swisscom
+2019-04-01,TMA,0,Swisscom
+2019-06-01,PYTHIA,1136,Swisscom
+2019-04-01,TMA,140,Swisscom
+2019-02-01,INSIGHTSRE,1762,Swisscom
+2019-08-01,SAMS,71,Swisscom
+2019-02-01,PYTHIA,15,Swisscom
+2019-03-01,TMA,1459,Group Technology Management
+2019-01-01,DSW,5962,Group Technology Management
+2019-05-01,GEORE1,0,Azure
+2017-03-01,DNA,45730,Utilization
+2019-09-01,DSW,19054,Utilization
+2019-05-01,DSW,15624,Utilization
+2017-07-01,OCR,12498,Utilization
+2018-09-01,PYTHIA,978,Utilization
+2018-07-01,DOCSEARCH,0,Utilization
+2018-09-01,PYTHIA,489,Utilization
+2019-08-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-01-01,PYTHIA,759,Swisscom
+2019-09-01,DSW,612,Swisscom
+2019-02-01,DSW,202,Swisscom
+2019-04-01,DSC,33,Swisscom
+2019-09-01,TMA,13,Swisscom
+2019-04-01,SAMS,76,Swisscom
+2019-08-01,PYTHIA,710,Group Technology Management
+2019-03-01,PYTHIA,107,Group Technology Management
+2019-05-01,WATSONEXP,170,Group Technology Management
+2019-07-01,DSC,4826,Group Technology Management
+2019-03-01,DATAROBOT,411,Group Technology Management
+2019-02-01,DOCSEARCH,170,Group Technology Management
+2019-07-01,TMA,170,Group Technology Management
+2019-01-01,BCHART,170,Group Technology Management
+2019-06-01,SISLAB,0,Azure
+2019-07-01,GEORE1,81,Azure
+2019-03-01,INSIGHTSRE,120,Swisscom
+2019-02-01,PYTHIA,9,Swisscom
+2019-01-01,SISLAB,104,Swisscom
+2017-03-01,TMA,2861,Utilization
+2018-06-01,DNA,3341,Utilization
+2019-06-01,DNA,1671,Utilization
+2019-02-01,DNA,170,Group Technology Management
+2019-04-01,TMA,170,Group Technology Management
+2019-06-01,OCR,170,Group Technology Management
+2019-07-01,DSW,9356,Group Technology Management
+2018-01-01,TMA,4087,Utilization
+2018-11-01,DSW,1671,Utilization
+2019-06-01,SISLAB,265,Swisscom
+2019-06-01,DSW,1835,Swisscom
+2019-06-01,PYTHIA,0,Azure
+2019-02-01,TMA,0,Azure
+2019-03-01,TMA,84,Azure
+2019-05-01,SISLAB,17,Azure
+2018-02-01,DOCSEARCH,20611,Utilization
+2019-01-01,DSW,4399,Utilization
+2019-09-01,PYTHIA,4764,Utilization
+2018-06-01,DSW,0,Utilization
+2018-08-01,INSIGHTSRE,978,Utilization
+2017-07-01,DSW,1671,Utilization
+2019-05-01,PYTHIA,608,Utilization
+2019-03-01,SAMS,41,Utilization
+2019-03-01,PYTHIA,2,Swisscom
+2019-02-01,DSW,5964,Swisscom
+2019-05-01,INSIGHTSRE,34,Swisscom
+2019-03-01,DATAROBOT,651,Swisscom
+2019-01-01,DSW,2698,Group Technology Management
+2019-04-01,SAMS,170,Group Technology Management
+2019-07-01,TMA,170,Group Technology Management
+2019-09-01,DSW,170,Group Technology Management
+2019-02-01,SISLAB,22,Azure
+2019-02-01,GEORE1,0,Azure
+2019-03-01,GEORE1,0,Azure
+2019-03-01,INSIGHTSRE,23341,Utilization
+2019-09-01,OCR,5434,Utilization
+2019-05-01,DSW,1905,Utilization
+2019-05-01,PYTHIA,857,Utilization
+2019-07-01,TMA,1195,Swisscom
+2019-04-01,PYTHIA,81,Swisscom
+2019-07-01,TMA,96,Swisscom
+2019-06-01,DOCSEARCH,170,Group Technology Management
+2019-06-01,GEORE1,170,Group Technology Management
+2019-09-01,DATAROBOT,414,Group Technology Management
+2019-09-01,TMA,0,Azure
+2019-07-01,SISLAB,2,Azure
+2019-09-01,TMA,0,Azure
+2019-07-01,GEORE1,0,Azure
+2019-02-01,SISLAB,26,Azure
+2019-01-01,DATAROBOT,536,Swisscom
+2019-07-01,DSW,478,Swisscom
+2019-04-01,INSIGHTSRE,23,Swisscom
+2019-09-01,SISLAB,170,Group Technology Management
+2019-06-01,DATAROBOT,170,Group Technology Management
+2019-03-01,GEORE1,170,Group Technology Management
+2019-05-01,SFILE,24,Group Technology Management
+2017-06-01,DNA,25425,Utilization
+2018-08-01,DOCSEARCH,22382,Utilization
+2017-09-01,DNA,18003,Utilization
+2018-07-01,DSW,12480,Utilization
+2019-05-01,OCR,11411,Utilization
+2018-07-01,DOCSEARCH,15619,Utilization
+2017-03-01,OCR,10949,Utilization
+2017-07-01,TMA,2044,Utilization
+2017-11-01,DSW,1671,Utilization
+2018-10-01,DSW,835,Utilization
+2019-05-01,GEORE1,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-05-01,GEORE1,0,Azure
+2018-11-01,TMA,33814,Utilization
+2018-07-01,DSW,3910,Utilization
+2018-05-01,DNA,5636,Utilization
+2017-02-01,TMA,3958,Utilization
+2018-09-01,DNA,1671,Utilization
+2017-04-01,OCR,409,Utilization
+2018-06-01,DSW,1198,Utilization
+2019-09-01,TMA,170,Group Technology Management
+2019-07-01,DOCPROXY,170,Group Technology Management
+2019-07-01,DSW,170,Group Technology Management
+2019-08-01,OCR,170,Group Technology Management
+2019-06-01,DOCSEARCH,550,Group Technology Management
+2019-04-01,SISLAB,0,Azure
+2019-02-01,GEORE1,51,Azure
+2019-01-01,SISLAB,2,Azure
+2019-03-01,SISLAB,327,Azure
+2019-03-01,LHTI,284,Swisscom
+2019-07-01,TMA,1382,Group Technology Management
+2019-08-01,DNA,170,Group Technology Management
+2019-04-01,LHTI,170,Group Technology Management
+2019-04-01,GEORE1,0,Azure
+2019-07-01,TMA,172,Azure
+2019-01-01,SISLAB,22,Azure
+2019-04-01,SISLAB,3,Azure
+2019-07-01,SISLAB,6,Azure
+2019-06-01,SISLAB,1,Azure
+2019-09-01,INSIGHTSRE,21912,Utilization
+2018-03-01,TMA,4087,Utilization
+2017-04-01,OCR,10325,Utilization
+2018-08-01,PYTHIA,5240,Utilization
+2018-12-01,DSW,0,Utilization
+2019-02-01,DOCSEARCH,572,Utilization
+2019-08-01,TMA,72,Swisscom
+2019-02-01,LHTI,261,Swisscom
+2019-08-01,LHTI,288,Swisscom
+2019-03-01,OCR,1003,Swisscom
+2019-02-01,DSW,31,Swisscom
+2019-07-01,DSW,25,Swisscom
+2019-07-01,INSIGHTSRE,5,Swisscom
+2019-02-01,DATAROBOT,1533,Swisscom
+2019-07-01,DSW,2933,Utilization
+2019-08-01,DSW,0,Utilization
+2019-02-01,LHTI,170,Group Technology Management
+2019-02-01,WAEXI,170,Group Technology Management
+2019-02-01,DOCSEARCH,170,Group Technology Management
+2019-04-01,PYTHIA,170,Group Technology Management
+2019-04-01,VISREPBOXI,0,Group Technology Management
+2019-06-01,SISLAB,0,Azure
+2019-01-01,SISLAB,0,Azure
+2019-01-01,TMA,2,Azure
+2017-04-01,DSW,1466,Utilization
+2019-05-01,INSIGHTSRE,3260,Utilization
+2019-06-01,OCR,409,Utilization
+2018-07-01,SAMS,483,Utilization
+2019-04-01,GEORE1,51,Azure
+2019-05-01,SISLAB,1,Azure
+2019-01-01,LHTI,170,Group Technology Management
+2019-03-01,SAMS,170,Group Technology Management
+2019-04-01,DSW,170,Group Technology Management
+2019-06-01,DOCSEARCH,170,Group Technology Management
+2019-04-01,DSW,170,Group Technology Management
+2019-08-01,DSW,170,Group Technology Management
+2019-01-01,PYTHIA,170,Group Technology Management
+2019-02-01,DSC,4215,Group Technology Management
+2019-07-01,TMA,10,Swisscom
+2019-06-01,PYTHIA,831,Swisscom
+2019-01-01,SAMS,18,Swisscom
+2019-09-01,DSW,4398,Group Technology Management
+2019-02-01,TMA,1324,Group Technology Management
+2019-08-01,VISREPBOXI,0,Group Technology Management
+2019-06-01,SAMS,18,Swisscom
+2019-04-01,GEORE1,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2017-10-01,DOCSEARCH,19805,Utilization
+2019-07-01,SAMS,117,Group Technology Management
+2019-08-01,OCR,187,Group Technology Management
+2019-01-01,SISLAB,170,Group Technology Management
+2019-08-01,DOCSEARCH,170,Group Technology Management
+2019-06-01,DSW,170,Group Technology Management
+2019-09-01,SISLAB,0,Azure
+2019-08-01,GEORE1,0,Azure
+2019-01-01,GEORE1,0,Azure
+2017-04-01,DNA,27761,Utilization
+2018-09-01,OCR,11955,Utilization
+2017-08-01,OCR,409,Utilization
+2019-01-01,DSW,716,Swisscom
+2019-08-01,DSW,29,Swisscom
+2019-05-01,PYTHIA,66,Swisscom
+2019-01-01,TMA,170,Group Technology Management
+2019-02-01,TMA,1871,Group Technology Management
+2019-02-01,PYTHIA,3716,Utilization
+2019-03-01,DNA,1524,Utilization
+2019-08-01,PYTHIA,79,Swisscom
+2019-02-01,PYTHIA,4,Swisscom
+2019-05-01,PYTHIA,861,Swisscom
+2019-08-01,SISLAB,41,Swisscom
+2019-01-01,SISLAB,0,Azure
+2019-04-01,SISLAB,34,Azure
+2019-03-01,SISLAB,0,Azure
+2019-02-01,SISLAB,21,Azure
+2019-01-01,PYTHIA,0,Azure
+2019-08-01,TMA,1871,Group Technology Management
+2019-05-01,VISREPBOXI,2146,Group Technology Management
+2019-06-01,SISLAB,5,Azure
+2019-06-01,GEORE1,0,Azure
+2019-08-01,TMA,0,Azure
+2019-01-01,SISLAB,8,Azure
+2019-03-01,DATAROBOT,582,Swisscom
+2019-07-01,TMA,255,Swisscom
+2019-02-01,INSIGHTSRE,7966,Utilization
+2019-02-01,TMA,2639,Utilization
+2019-04-01,DOCSEARCH,572,Utilization
+2018-07-01,PYTHIA,489,Utilization
+2019-01-01,GEORE1,1,Azure
+2019-02-01,TMA,0,Azure
+2019-03-01,SISLAB,0,Azure
+2019-07-01,GEORE1,3,Azure
+2019-06-01,GEORE1,0,Azure
+2019-09-01,DOCPROXY,170,Group Technology Management
+2019-02-01,SAMS,77,Group Technology Management
+2019-08-01,DNA,170,Group Technology Management
+2019-02-01,WAEXI,26,Swisscom
+2019-03-01,TMA,1226,Utilization
+2018-03-01,DOCSEARCH,817,Utilization
+2018-02-01,DSW,0,Utilization
+2018-11-01,SAMS,644,Utilization
+2019-08-01,SISLAB,0,Azure
+2019-01-01,GEORE1,0,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-04-01,SISLAB,22,Azure
+2019-08-01,INSIGHTSRE,1915,Swisscom
+2019-09-01,SAMS,4,Swisscom
+2019-04-01,PYTHIA,193,Swisscom
+2019-09-01,SISLAB,6,Swisscom
+2019-07-01,INSIGHTSRE,1098,Group Technology Management
+2019-01-01,PYTHIA,710,Group Technology Management
+2019-03-01,SISLAB,18492,Group Technology Management
+2019-09-01,PYTHIA,98,Swisscom
+2019-03-01,INSIGHTSRE,155,Swisscom
+2019-09-01,PYTHIA,65,Swisscom
+2019-07-01,SISLAB,20,Swisscom
+2018-08-01,TMA,22704,Utilization
+2018-11-01,DSW,2444,Utilization
+2018-05-01,INSIGHTSRE,409,Utilization
+2019-08-01,DOCPROXY,170,Group Technology Management
+2019-09-01,SISLAB,11,Azure
+2019-08-01,SISLAB,0,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-09-01,GEORE1,0,Azure
+2019-04-01,SISLAB,6,Azure
+2019-06-01,OCR,924,Swisscom
+2019-05-01,TMA,11,Swisscom
+2019-08-01,PYTHIA,2,Swisscom
+2019-08-01,DSW,1719,Swisscom
+2019-05-01,DSW,1056,Swisscom
+2019-09-01,OCR,550,Group Technology Management
+2019-07-01,SFILE,24,Group Technology Management
+2019-06-01,SFILE,170,Group Technology Management
+2019-05-01,INSIGHTSRE,733,Utilization
+2019-05-01,SISLAB,2,Azure
+2019-06-01,PYTHIA,19,Azure
+2019-08-01,SISLAB,40,Azure
+2019-01-01,PYTHIA,9977,Utilization
+2018-12-01,INSIGHTSRE,6682,Utilization
+2019-07-01,DOCSEARCH,572,Utilization
+2019-09-01,SISLAB,0,Azure
+2019-06-01,GEORE1,28,Azure
+2019-09-01,SISLAB,1,Azure
+2019-03-01,INSIGHTSRE,436,Swisscom
+2019-01-01,PYTHIA,222,Swisscom
+2019-05-01,DATAROBOT,593,Swisscom
+2019-03-01,SAMS,78,Swisscom
+2019-02-01,DNA,170,Group Technology Management
+2019-02-01,INSIGHTSRE,170,Group Technology Management
+2019-07-01,WATSONEXP,170,Group Technology Management
+2019-08-01,VISREPBOXI,2146,Group Technology Management
+2019-05-01,SAMS,1,Swisscom
+2019-01-01,SAMS,55,Swisscom
+2019-05-01,INSIGHTSRE,515,Swisscom
+2019-08-01,INSIGHTSRE,210,Swisscom
+2019-08-01,DSW,73,Swisscom
+2019-08-01,DSC,2482,Swisscom
+2019-08-01,INSIGHTSRE,189,Swisscom
+2017-02-01,OCR,6521,Utilization
+2018-12-01,OCR,1226,Utilization
+2019-02-01,GEORE1,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-06-01,TMA,0,Azure
+2019-09-01,SISLAB,9,Azure
+2019-03-01,INSIGHTSRE,170,Group Technology Management
+2018-10-01,INSIGHTSRE,21725,Utilization
+2019-08-01,DOCSEARCH,572,Utilization
+2018-08-01,PYTHIA,489,Utilization
+2019-05-01,GEORE1,6,Azure
+2019-07-01,SISLAB,1,Azure
+2019-06-01,SISLAB,0,Azure
+2019-04-01,TMA,1,Swisscom
+2019-05-01,DATAROBOT,462,Swisscom
+2019-02-01,INSIGHTSRE,2,Swisscom
+2019-07-01,DATAROBOT,1,Swisscom
+2019-05-01,SISLAB,10131,Swisscom
+2019-03-01,DSC,2527,Swisscom
+2019-07-01,SISLAB,2,Azure
+2019-02-01,GEORE1,2,Azure
+2019-02-01,SISLAB,0,Azure
+2019-04-01,TMA,131,Azure
+2019-05-01,SISLAB,0,Azure
+2019-06-01,PYTHIA,144,Swisscom
+2019-01-01,DSW,8148,Utilization
+2019-02-01,TMA,1226,Utilization
+2019-06-01,INSIGHTSRE,733,Utilization
+2017-02-01,DSW,489,Utilization
+2019-01-01,DNA,213,Group Technology Management
+2019-04-01,DOCPROXY,170,Group Technology Management
+2019-04-01,TMA,170,Group Technology Management
+2019-09-01,GEORE1,170,Group Technology Management
+2019-09-01,OCR,92,Group Technology Management
+2019-02-01,SISLAB,9293,Group Technology Management
+2018-09-01,TMA,24797,Utilization
+2018-07-01,OCR,12716,Utilization
+2018-01-01,DSW,9908,Utilization
+2019-05-01,TMA,1226,Utilization
+2017-05-01,DSW,1671,Utilization
+2017-08-01,DSW,1671,Utilization
+2017-08-01,SAMS,805,Utilization
+2019-08-01,SISLAB,2,Azure
+2019-02-01,PYTHIA,0,Azure
+2019-07-01,SISLAB,150,Azure
+2019-09-01,SAMS,117,Group Technology Management
+2019-05-01,OCR,170,Group Technology Management
+2019-04-01,DOCSEARCH,170,Group Technology Management
+2019-09-01,TMA,170,Group Technology Management
+2019-05-01,DNA,1272,Swisscom
+2019-04-01,SISLAB,9798,Swisscom
+2019-02-01,TMA,178,Swisscom
+2019-09-01,DATAROBOT,0,Swisscom
+2019-08-01,INSIGHTSRE,170,Group Technology Management
+2019-09-01,DNA,213,Group Technology Management
+2019-02-01,TMA,170,Group Technology Management
+2019-07-01,TMA,153,Group Technology Management
+2019-05-01,SISLAB,2,Azure
+2019-05-01,DSW,32,Swisscom
+2019-06-01,SAMS,10,Swisscom
+2019-04-01,DATAROBOT,42,Swisscom
+2019-04-01,INSIGHTSRE,5162,Swisscom
+2017-02-01,DOCSEARCH,23670,Utilization
+2017-10-01,DNA,7407,Utilization
+2017-09-01,DSW,6682,Utilization
+2019-05-01,TMA,2639,Utilization
+2018-02-01,SAMS,644,Utilization
+2019-09-01,TMA,27,Azure
+2019-08-01,GEORE1,0,Azure
+2019-07-01,PYTHIA,5,Azure
+2019-01-01,GEORE1,0,Azure
+2019-09-01,GEORE1,0,Azure
+2019-04-01,TMA,0,Azure
+2018-03-01,TMA,65213,Utilization
+2019-03-01,DSW,22865,Utilization
+2018-10-01,DSW,0,Utilization
+2019-08-01,INSIGHTSRE,12350,Swisscom
+2019-01-01,TMA,83,Swisscom
+2019-07-01,TMA,157,Swisscom
+2019-03-01,INSIGHTSRE,12,Swisscom
+2019-05-01,SISLAB,15,Swisscom
+2019-07-01,TMA,20,Swisscom
+2019-06-01,INSIGHTSRE,13304,Swisscom
+2019-05-01,DSW,6,Swisscom
+2019-06-01,SAMS,1,Swisscom
+2019-08-01,DSC,12,Swisscom
+2019-08-01,SISLAB,11814,Swisscom
+2019-09-01,DSW,4480,Swisscom
+2019-02-01,SISLAB,2894,Swisscom
+2019-01-01,PYTHIA,30,Swisscom
+2019-02-01,OCR,133,Group Technology Management
+2019-09-01,INSIGHTSRE,170,Group Technology Management
+2019-04-01,DOCSEARCH,170,Group Technology Management
+2018-05-01,INSIGHTSRE,23536,Utilization
+2019-06-01,SISLAB,0,Azure
+2019-05-01,SISLAB,0,Azure
+2019-07-01,TMA,0,Azure
+2019-03-01,SISLAB,122,Azure
+2019-08-01,SISLAB,2,Azure
+2019-01-01,SISLAB,182,Swisscom
+2019-06-01,TMA,382,Swisscom
+2019-09-01,TMA,9,Swisscom
+2019-06-01,DSW,60,Swisscom
+2019-08-01,DSC,3263,Swisscom
+2019-06-01,DSC,2449,Swisscom
+2019-01-01,TMA,6,Swisscom
+2018-10-01,TMA,33009,Utilization
+2017-05-01,TMA,3958,Utilization
+2019-03-01,OCR,170,Group Technology Management
+2019-05-01,GEORE1,299,Azure
+2019-05-01,SISLAB,5,Azure
+2019-06-01,OCR,187,Group Technology Management
+2019-02-01,INSIGHTSRE,605,Group Technology Management
+2018-06-01,INSIGHTSRE,409,Utilization
+2019-09-01,TMA,6,Swisscom
+2019-01-01,SISLAB,165,Swisscom
+2019-06-01,INSIGHTSRE,3321,Swisscom
+2019-04-01,TMA,4891,Utilization
+2017-01-01,TMA,3958,Utilization
+2018-12-01,TMA,1226,Utilization
+2017-10-01,OCR,817,Utilization
+2019-01-01,SISLAB,0,Azure
+2019-09-01,SISLAB,75,Azure
+2019-09-01,SISLAB,0,Azure
+2019-02-01,DOCSEARCH,170,Group Technology Management
+2019-08-01,DATAROBOT,170,Group Technology Management
+2019-03-01,TMA,170,Group Technology Management
+2019-09-01,PYTHIA,170,Group Technology Management
+2019-02-01,TMA,917,Group Technology Management
+2019-04-01,DSW,1220,Swisscom
+2019-03-01,SISLAB,2107,Swisscom
+2019-05-01,DSC,3518,Swisscom
+2019-03-01,PYTHIA,148,Swisscom
+2019-01-01,GEORE1,28,Azure
+2019-07-01,GEORE1,0,Azure
+2019-08-01,GEORE1,0,Azure
+2019-08-01,SISLAB,2,Azure
+2019-04-01,GEORE1,0,Azure
+2017-07-01,DNA,6682,Utilization
+2019-05-01,INSIGHTSRE,6682,Utilization
+2019-04-01,SISLAB,1983,Swisscom
+2019-04-01,DSW,6859,Swisscom
+2019-05-01,TMA,1333,Group Technology Management
+2019-08-01,LHTI,55,Group Technology Management
+2019-06-01,INSIGHTSRE,170,Group Technology Management
+2019-09-01,PYTHIA,27,Swisscom
+2019-01-01,INSIGHTSRE,1,Swisscom
+2019-07-01,INSIGHTSRE,3432,Swisscom
+2019-03-01,DSW,321,Swisscom
+2019-07-01,GEORE1,4,Azure
+2019-02-01,SISLAB,131,Azure
+2017-04-01,DOCSEARCH,14170,Utilization
+2017-06-01,DNA,13365,Utilization
+2019-06-01,DNA,170,Group Technology Management
+2019-07-01,INSIGHTSRE,170,Group Technology Management
+2019-09-01,SISLAB,4018,Group Technology Management
+2019-01-01,SISLAB,10754,Group Technology Management
+2019-05-01,INSIGHTSRE,45,Group Technology Management
+2019-06-01,SISLAB,5,Azure
+2019-06-01,SISLAB,0,Azure
+2019-09-01,SISLAB,0,Azure
+2019-03-01,SAMS,23,Swisscom
+2019-02-01,TMA,0,Swisscom
+2019-06-01,PYTHIA,77,Swisscom
+2019-07-01,SAMS,18,Swisscom
+2019-07-01,PYTHIA,1127,Group Technology Management
+2019-02-01,DOCSEARCH,550,Group Technology Management
+2018-11-01,PYTHIA,1955,Utilization
+2019-01-01,DSW,835,Utilization
+2019-04-01,SAMS,170,Group Technology Management
+2019-07-01,GEORE1,0,Azure
+2019-06-01,GEORE1,0,Azure
+2019-06-01,PYTHIA,0,Azure
+2019-07-01,INSIGHTSRE,1504,Swisscom
+2019-06-01,DSW,79,Swisscom
+2019-02-01,TMA,20,Group Technology Management
+2019-01-01,DOCSEARCH,1191,Group Technology Management
+2019-05-01,DSC,1,Group Technology Management
+2019-01-01,DSW,321,Swisscom
+2017-01-01,DOCSEARCH,6521,Utilization
+2017-04-01,DOCSEARCH,2717,Utilization
+2017-09-01,DSW,0,Utilization
+2017-09-01,SAMS,644,Utilization
+2019-06-01,GEORE1,0,Azure
+2019-06-01,SISLAB,0,Azure
+2019-06-01,SISLAB,956,Azure
+2019-01-01,SISLAB,170,Group Technology Management
+2019-05-01,TMA,170,Group Technology Management
+2019-08-01,SISLAB,0,Azure
+2019-05-01,TMA,158,Azure
+2019-06-01,SISLAB,1,Azure
+2017-08-01,DOCSEARCH,817,Utilization
+2019-03-01,SAMS,10,Swisscom
+2019-09-01,DATAROBOT,178,Swisscom
+2019-01-01,INSIGHTSRE,1303,Swisscom
+2019-06-01,PYTHIA,64,Swisscom
+2019-07-01,INSIGHTSRE,5395,Group Technology Management
+2019-01-01,TMA,293,Group Technology Management
+2019-02-01,OCR,170,Group Technology Management
+2019-06-01,DOCSEARCH,170,Group Technology Management
+2019-03-01,DOCSEARCH,1191,Group Technology Management
+2018-09-01,INSIGHTSRE,13365,Utilization
+2019-01-01,INSIGHTSRE,3285,Utilization
+2019-08-01,TMA,1087,Utilization
+2019-03-01,DNA,1272,Swisscom
+2019-02-01,DSW,1077,Swisscom
+2019-09-01,GEORE1,4,Azure
+2019-05-01,GEORE1,0,Azure
+2019-09-01,INSIGHTSRE,1727,Swisscom
+2019-01-01,DATAROBOT,1,Swisscom
+2019-02-01,DATAROBOT,1010,Swisscom
+2019-06-01,INSIGHTSRE,8604,Swisscom
+2019-02-01,TMA,2174,Utilization
+2019-01-01,DOCPROXY,62,Group Technology Management
+2019-01-01,DATAROBOT,411,Group Technology Management
+2019-05-01,DNA,170,Group Technology Management
+2019-05-01,SISLAB,0,Azure
+2019-07-01,SISLAB,1,Azure
+2019-05-01,SISLAB,7,Azure
+2019-08-01,TMA,170,Group Technology Management
+2019-09-01,TMA,170,Group Technology Management
+2019-02-01,DSC,1,Group Technology Management
+2018-01-01,TMA,35907,Utilization
+2018-11-01,PYTHIA,1466,Utilization
+2017-10-01,DNA,835,Utilization
+2019-08-01,DSW,1139,Swisscom
+2019-02-01,DSW,27,Swisscom
+2019-07-01,GEORE1,1,Azure
+2019-08-01,DATAROBOT,1467,Swisscom
+2019-09-01,SISLAB,15,Swisscom
+2019-01-01,TMA,255,Swisscom
+2019-02-01,PYTHIA,5597,Utilization
+2019-01-01,SISLAB,0,Azure
+2019-07-01,SISLAB,1,Azure
+2019-02-01,SISLAB,0,Azure
+2019-03-01,WATSONEXP,170,Group Technology Management
+2017-12-01,DSW,15035,Utilization
+2019-03-01,INSIGHTSRE,15932,Utilization
+2017-04-01,DSW,1671,Utilization
+2019-08-01,OCR,409,Utilization
+2019-05-01,SISLAB,0,Azure
+2019-02-01,SISLAB,0,Azure
+2019-06-01,GEORE1,78,Azure
+2019-09-01,PYTHIA,0,Azure
+2019-02-01,GEORE1,0,Azure
